@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+*.egg-info/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+airflow/webserver_config.py
+
+# dbt
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+
+# Data
+*.db
+*.duckdb
+data/raw/*.csv
+data/processed/*.csv
+
+# Docker
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
+
+# IDE
+.vscode/
+.idea/
