@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,product_id,product_title,category,quantity,unit_price,total_amount,customer_id,extracted_at
+TXN000001,2026-02-03 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,5,9.85,49.25,CUST0160,2026-02-06 11:20:09.758429
+TXN000002,2025-11-25 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0022,2026-02-06 11:20:09.759254
+TXN000003,2026-01-10 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0144,2026-02-06 11:20:09.759861
+TXN000004,2025-11-09 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0117,2026-02-06 11:20:09.760420
+TXN000005,2026-01-07 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,5,695.0,3475.0,CUST0132,2026-02-06 11:20:09.761067
+TXN000006,2025-12-24 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0036,2026-02-06 11:20:09.761632
+TXN000007,2026-01-17 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0160,2026-02-06 11:20:09.762125
+TXN000008,2026-01-02 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,5,39.99,199.95,CUST0020,2026-02-06 11:20:09.762609
+TXN000009,2025-12-10 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0098,2026-02-06 11:20:09.763108
+TXN000010,2025-12-10 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0043,2026-02-06 11:20:09.763616
+TXN000011,2025-12-09 11:20:09,7,White Gold Plated Princess,jewelery,2,9.99,19.98,CUST0168,2026-02-06 11:20:09.764099
+TXN000012,2025-12-23 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0122,2026-02-06 11:20:09.764575
+TXN000013,2026-01-18 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,5,9.85,49.25,CUST0142,2026-02-06 11:20:09.765069
+TXN000014,2025-12-01 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0063,2026-02-06 11:20:09.765556
+TXN000015,2025-12-25 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0046,2026-02-06 11:20:09.766033
+TXN000016,2025-11-18 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0125,2026-02-06 11:20:09.766490
+TXN000017,2026-01-09 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0044,2026-02-06 11:20:09.766929
+TXN000018,2025-11-22 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0164,2026-02-06 11:20:09.767810
+TXN000019,2026-01-02 11:20:09,7,White Gold Plated Princess,jewelery,2,9.99,19.98,CUST0038,2026-02-06 11:20:09.768840
+TXN000020,2026-02-05 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0083,2026-02-06 11:20:09.769410
+TXN000021,2026-02-03 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,1,999.99,999.99,CUST0121,2026-02-06 11:20:09.769967
+TXN000022,2025-12-23 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,114.0,114.0,CUST0181,2026-02-06 11:20:09.770478
+TXN000023,2025-11-11 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0045,2026-02-06 11:20:09.770967
+TXN000024,2026-01-14 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0003,2026-02-06 11:20:09.771484
+TXN000025,2025-11-19 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0024,2026-02-06 11:20:09.772134
+TXN000026,2025-12-07 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0090,2026-02-06 11:20:09.772697
+TXN000027,2025-12-07 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0043,2026-02-06 11:20:09.773261
+TXN000028,2025-12-18 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0166,2026-02-06 11:20:09.773747
+TXN000029,2025-11-10 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0007,2026-02-06 11:20:09.774229
+TXN000030,2026-02-05 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0036,2026-02-06 11:20:09.774704
+TXN000031,2025-11-13 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0077,2026-02-06 11:20:09.775194
+TXN000032,2026-01-31 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,2,9.85,19.7,CUST0089,2026-02-06 11:20:09.775631
+TXN000033,2025-11-22 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0079,2026-02-06 11:20:09.776048
+TXN000034,2025-12-10 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0151,2026-02-06 11:20:09.776453
+TXN000035,2025-11-25 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,2,39.99,79.98,CUST0191,2026-02-06 11:20:09.776955
+TXN000036,2025-11-13 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0188,2026-02-06 11:20:09.777391
+TXN000037,2026-01-13 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0014,2026-02-06 11:20:09.777799
+TXN000038,2025-12-23 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0172,2026-02-06 11:20:09.778199
+TXN000039,2025-11-11 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,5,999.99,4999.95,CUST0185,2026-02-06 11:20:09.778606
+TXN000040,2025-12-19 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,5,9.85,49.25,CUST0089,2026-02-06 11:20:09.779075
+TXN000041,2025-12-09 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0087,2026-02-06 11:20:09.779490
+TXN000042,2026-01-12 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,1,12.99,12.99,CUST0047,2026-02-06 11:20:09.779892
+TXN000043,2025-11-15 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0171,2026-02-06 11:20:09.780271
+TXN000044,2025-11-12 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0171,2026-02-06 11:20:09.780789
+TXN000045,2025-11-24 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0162,2026-02-06 11:20:09.781286
+TXN000046,2025-11-21 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0081,2026-02-06 11:20:09.781863
+TXN000047,2025-12-31 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0006,2026-02-06 11:20:09.782424
+TXN000048,2025-11-21 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0172,2026-02-06 11:20:09.783180
+TXN000049,2025-12-30 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0192,2026-02-06 11:20:09.784108
+TXN000050,2026-01-17 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0029,2026-02-06 11:20:09.785416
+TXN000051,2025-12-20 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0199,2026-02-06 11:20:09.786064
+TXN000052,2026-02-04 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0162,2026-02-06 11:20:09.786537
+TXN000053,2025-11-26 11:20:09,7,White Gold Plated Princess,jewelery,1,9.99,9.99,CUST0053,2026-02-06 11:20:09.787008
+TXN000054,2026-01-05 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0142,2026-02-06 11:20:09.787435
+TXN000055,2026-01-03 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,3,56.99,170.97,CUST0104,2026-02-06 11:20:09.787925
+TXN000056,2026-02-01 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0180,2026-02-06 11:20:09.788976
+TXN000057,2026-02-04 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0143,2026-02-06 11:20:09.789711
+TXN000058,2025-12-18 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0051,2026-02-06 11:20:09.790152
+TXN000059,2025-12-24 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0197,2026-02-06 11:20:09.790549
+TXN000060,2026-01-29 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0013,2026-02-06 11:20:09.790950
+TXN000061,2025-12-17 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0035,2026-02-06 11:20:09.791302
+TXN000062,2025-12-10 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0025,2026-02-06 11:20:09.791623
+TXN000063,2025-11-16 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0015,2026-02-06 11:20:09.791921
+TXN000064,2025-11-29 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0079,2026-02-06 11:20:09.792214
+TXN000065,2025-11-13 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0166,2026-02-06 11:20:09.792493
+TXN000066,2026-01-14 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0064,2026-02-06 11:20:09.792790
+TXN000067,2026-01-16 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0025,2026-02-06 11:20:09.793054
+TXN000068,2025-12-26 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0161,2026-02-06 11:20:09.793292
+TXN000069,2025-11-22 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0049,2026-02-06 11:20:09.793557
+TXN000070,2025-11-19 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0085,2026-02-06 11:20:09.793824
+TXN000071,2025-12-07 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0015,2026-02-06 11:20:09.794067
+TXN000072,2025-11-16 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0131,2026-02-06 11:20:09.794300
+TXN000073,2026-01-02 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0093,2026-02-06 11:20:09.794524
+TXN000074,2025-11-13 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0137,2026-02-06 11:20:09.794757
+TXN000075,2026-01-19 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0100,2026-02-06 11:20:09.794970
+TXN000076,2026-01-22 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0096,2026-02-06 11:20:09.795197
+TXN000077,2025-12-10 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0052,2026-02-06 11:20:09.795425
+TXN000078,2026-02-05 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0184,2026-02-06 11:20:09.795628
+TXN000079,2026-01-27 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0185,2026-02-06 11:20:09.795825
+TXN000080,2025-12-23 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0105,2026-02-06 11:20:09.796014
+TXN000081,2025-12-11 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0178,2026-02-06 11:20:09.796226
+TXN000082,2025-12-22 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0021,2026-02-06 11:20:09.796426
+TXN000083,2025-12-04 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0088,2026-02-06 11:20:09.796604
+TXN000084,2026-01-29 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0006,2026-02-06 11:20:09.796779
+TXN000085,2025-11-10 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0005,2026-02-06 11:20:09.796947
+TXN000086,2025-12-13 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0018,2026-02-06 11:20:09.797149
+TXN000087,2026-01-23 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0026,2026-02-06 11:20:09.797329
+TXN000088,2026-01-29 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0198,2026-02-06 11:20:09.797499
+TXN000089,2026-02-06 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0043,2026-02-06 11:20:09.797668
+TXN000090,2025-12-16 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,2,599.0,1198.0,CUST0091,2026-02-06 11:20:09.797844
+TXN000091,2025-12-18 11:20:09,7,White Gold Plated Princess,jewelery,1,9.99,9.99,CUST0077,2026-02-06 11:20:09.798018
+TXN000092,2025-11-26 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0186,2026-02-06 11:20:09.798209
+TXN000093,2025-11-09 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0023,2026-02-06 11:20:09.798381
+TXN000094,2025-12-21 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,1,12.99,12.99,CUST0015,2026-02-06 11:20:09.798566
+TXN000095,2025-11-11 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0182,2026-02-06 11:20:09.798741
+TXN000096,2025-11-20 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0059,2026-02-06 11:20:09.798912
+TXN000097,2025-12-20 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0164,2026-02-06 11:20:09.799175
+TXN000098,2026-01-16 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,5,39.99,199.95,CUST0142,2026-02-06 11:20:09.799584
+TXN000099,2026-01-20 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0183,2026-02-06 11:20:09.799840
+TXN000100,2025-11-23 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0128,2026-02-06 11:20:09.800036
+TXN000101,2026-01-15 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0186,2026-02-06 11:20:09.800230
+TXN000102,2025-12-26 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0026,2026-02-06 11:20:09.800454
+TXN000103,2025-11-29 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,2,56.99,113.98,CUST0147,2026-02-06 11:20:09.800680
+TXN000104,2025-12-31 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0006,2026-02-06 11:20:09.800897
+TXN000105,2025-11-10 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0064,2026-02-06 11:20:09.801103
+TXN000106,2025-12-21 11:20:09,4,Mens Casual Slim Fit,men's clothing,2,15.99,31.98,CUST0018,2026-02-06 11:20:09.801448
+TXN000107,2025-12-18 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0164,2026-02-06 11:20:09.801749
+TXN000108,2026-01-01 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0171,2026-02-06 11:20:09.802030
+TXN000109,2026-02-02 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0121,2026-02-06 11:20:09.802601
+TXN000110,2025-12-14 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0023,2026-02-06 11:20:09.802855
+TXN000111,2025-11-25 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0129,2026-02-06 11:20:09.803074
+TXN000112,2026-01-14 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0130,2026-02-06 11:20:09.803343
+TXN000113,2025-12-31 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,5,999.99,4999.95,CUST0009,2026-02-06 11:20:09.803600
+TXN000114,2025-12-29 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0039,2026-02-06 11:20:09.803812
+TXN000115,2026-01-11 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0102,2026-02-06 11:20:09.804009
+TXN000116,2025-11-17 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0172,2026-02-06 11:20:09.804230
+TXN000117,2025-12-26 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0123,2026-02-06 11:20:09.804467
+TXN000118,2025-12-10 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0128,2026-02-06 11:20:09.804679
+TXN000119,2025-11-18 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0053,2026-02-06 11:20:09.804878
+TXN000120,2025-12-05 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0015,2026-02-06 11:20:09.805090
+TXN000121,2026-01-01 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0056,2026-02-06 11:20:09.805308
+TXN000122,2026-01-01 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0105,2026-02-06 11:20:09.805566
+TXN000123,2026-01-28 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0129,2026-02-06 11:20:09.805771
+TXN000124,2025-11-26 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0184,2026-02-06 11:20:09.805993
+TXN000125,2026-01-01 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0133,2026-02-06 11:20:09.806209
+TXN000126,2025-12-01 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0047,2026-02-06 11:20:09.806423
+TXN000127,2026-02-03 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0077,2026-02-06 11:20:09.806619
+TXN000128,2025-11-21 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0015,2026-02-06 11:20:09.806811
+TXN000129,2026-01-18 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0067,2026-02-06 11:20:09.807016
+TXN000130,2025-12-14 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0022,2026-02-06 11:20:09.807215
+TXN000131,2025-12-27 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0196,2026-02-06 11:20:09.807405
+TXN000132,2025-12-29 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,1,10.99,10.99,CUST0157,2026-02-06 11:20:09.807594
+TXN000133,2025-11-21 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,2,114.0,228.0,CUST0164,2026-02-06 11:20:09.807794
+TXN000134,2026-01-16 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0026,2026-02-06 11:20:09.807986
+TXN000135,2025-12-06 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0200,2026-02-06 11:20:09.808174
+TXN000136,2025-11-11 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0131,2026-02-06 11:20:09.808410
+TXN000137,2025-11-09 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0059,2026-02-06 11:20:09.808619
+TXN000138,2025-11-10 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0196,2026-02-06 11:20:09.808813
+TXN000139,2025-12-15 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0140,2026-02-06 11:20:09.809018
+TXN000140,2025-12-21 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0067,2026-02-06 11:20:09.809214
+TXN000141,2026-01-08 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0044,2026-02-06 11:20:09.809404
+TXN000142,2026-01-14 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0165,2026-02-06 11:20:09.809593
+TXN000143,2026-01-20 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0065,2026-02-06 11:20:09.809783
+TXN000144,2025-12-28 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0183,2026-02-06 11:20:09.809977
+TXN000145,2025-12-27 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,1,12.99,12.99,CUST0195,2026-02-06 11:20:09.810166
+TXN000146,2025-12-11 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0077,2026-02-06 11:20:09.810419
+TXN000147,2026-01-09 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0100,2026-02-06 11:20:09.810653
+TXN000148,2025-12-12 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0063,2026-02-06 11:20:09.810956
+TXN000149,2026-01-15 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,114.0,114.0,CUST0110,2026-02-06 11:20:09.811162
+TXN000150,2025-12-17 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0139,2026-02-06 11:20:09.811361
+TXN000151,2025-12-24 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0003,2026-02-06 11:20:09.811644
+TXN000152,2025-11-29 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,1,12.99,12.99,CUST0050,2026-02-06 11:20:09.811857
+TXN000153,2026-02-05 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0124,2026-02-06 11:20:09.812039
+TXN000154,2025-11-25 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0136,2026-02-06 11:20:09.812215
+TXN000155,2026-01-22 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,1,12.99,12.99,CUST0036,2026-02-06 11:20:09.812386
+TXN000156,2026-01-10 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0161,2026-02-06 11:20:09.812596
+TXN000157,2026-01-21 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0033,2026-02-06 11:20:09.812787
+TXN000158,2025-12-03 11:20:09,7,White Gold Plated Princess,jewelery,3,9.99,29.97,CUST0183,2026-02-06 11:20:09.812962
+TXN000159,2026-01-30 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0147,2026-02-06 11:20:09.813133
+TXN000160,2026-01-29 11:20:09,7,White Gold Plated Princess,jewelery,2,9.99,19.98,CUST0125,2026-02-06 11:20:09.813302
+TXN000161,2026-01-17 11:20:09,4,Mens Casual Slim Fit,men's clothing,2,15.99,31.98,CUST0169,2026-02-06 11:20:09.813486
+TXN000162,2025-11-27 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,2,599.0,1198.0,CUST0101,2026-02-06 11:20:09.813660
+TXN000163,2025-11-12 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0034,2026-02-06 11:20:09.813833
+TXN000164,2026-01-29 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0016,2026-02-06 11:20:09.814004
+TXN000165,2025-12-06 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0192,2026-02-06 11:20:09.814181
+TXN000166,2026-01-14 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0044,2026-02-06 11:20:09.814357
+TXN000167,2026-01-18 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0097,2026-02-06 11:20:09.814679
+TXN000168,2025-12-03 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,1,39.99,39.99,CUST0003,2026-02-06 11:20:09.814928
+TXN000169,2025-12-21 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0109,2026-02-06 11:20:09.815128
+TXN000170,2025-11-09 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0191,2026-02-06 11:20:09.815318
+TXN000171,2025-12-19 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,5,999.99,4999.95,CUST0051,2026-02-06 11:20:09.815498
+TXN000172,2025-12-15 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0027,2026-02-06 11:20:09.815678
+TXN000173,2026-01-21 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,1,999.99,999.99,CUST0071,2026-02-06 11:20:09.815858
+TXN000174,2025-12-08 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0126,2026-02-06 11:20:09.816032
+TXN000175,2025-12-31 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0122,2026-02-06 11:20:09.816203
+TXN000176,2026-01-16 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0119,2026-02-06 11:20:09.816379
+TXN000177,2026-01-21 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,5,695.0,3475.0,CUST0075,2026-02-06 11:20:09.816554
+TXN000178,2026-01-15 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0197,2026-02-06 11:20:09.816788
+TXN000179,2026-01-18 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0104,2026-02-06 11:20:09.816980
+TXN000180,2026-01-10 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0148,2026-02-06 11:20:09.817222
+TXN000181,2025-11-24 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0167,2026-02-06 11:20:09.817750
+TXN000182,2026-01-25 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0077,2026-02-06 11:20:09.818023
+TXN000183,2026-01-19 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0197,2026-02-06 11:20:09.818551
+TXN000184,2025-12-15 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0198,2026-02-06 11:20:09.818861
+TXN000185,2025-11-15 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,1,12.99,12.99,CUST0017,2026-02-06 11:20:09.819175
+TXN000186,2025-12-23 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0115,2026-02-06 11:20:09.819390
+TXN000187,2025-12-12 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0199,2026-02-06 11:20:09.819614
+TXN000188,2026-01-20 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0080,2026-02-06 11:20:09.819803
+TXN000189,2025-11-19 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0034,2026-02-06 11:20:09.819993
+TXN000190,2025-11-20 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,1,56.99,56.99,CUST0187,2026-02-06 11:20:09.820184
+TXN000191,2025-12-01 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,2,9.85,19.7,CUST0137,2026-02-06 11:20:09.820364
+TXN000192,2025-11-19 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0128,2026-02-06 11:20:09.820539
+TXN000193,2025-12-26 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0143,2026-02-06 11:20:09.820714
+TXN000194,2025-11-17 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0086,2026-02-06 11:20:09.820922
+TXN000195,2025-12-04 11:20:09,4,Mens Casual Slim Fit,men's clothing,2,15.99,31.98,CUST0159,2026-02-06 11:20:09.821124
+TXN000196,2025-12-09 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,3,22.3,66.9,CUST0123,2026-02-06 11:20:09.821314
+TXN000197,2026-01-07 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,1,999.99,999.99,CUST0145,2026-02-06 11:20:09.821500
+TXN000198,2026-01-04 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0163,2026-02-06 11:20:09.821671
+TXN000199,2025-11-23 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0097,2026-02-06 11:20:09.821847
+TXN000200,2025-11-14 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,5,999.99,4999.95,CUST0131,2026-02-06 11:20:09.822029
+TXN000201,2026-01-15 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0185,2026-02-06 11:20:09.822217
+TXN000202,2026-01-12 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,1,999.99,999.99,CUST0158,2026-02-06 11:20:09.822389
+TXN000203,2026-02-03 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,3,109.0,327.0,CUST0131,2026-02-06 11:20:09.822561
+TXN000204,2026-01-04 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0169,2026-02-06 11:20:09.822739
+TXN000205,2025-12-24 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0136,2026-02-06 11:20:09.822931
+TXN000206,2025-11-16 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,5,39.99,199.95,CUST0027,2026-02-06 11:20:09.823102
+TXN000207,2026-01-12 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0022,2026-02-06 11:20:09.823268
+TXN000208,2026-01-09 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0197,2026-02-06 11:20:09.823452
+TXN000209,2025-11-15 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0179,2026-02-06 11:20:09.823629
+TXN000210,2026-01-08 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0112,2026-02-06 11:20:09.823799
+TXN000211,2025-12-25 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0015,2026-02-06 11:20:09.823986
+TXN000212,2025-12-14 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0106,2026-02-06 11:20:09.824164
+TXN000213,2026-01-19 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0045,2026-02-06 11:20:09.824337
+TXN000214,2026-01-24 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0098,2026-02-06 11:20:09.824512
+TXN000215,2025-12-06 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0102,2026-02-06 11:20:09.824698
+TXN000216,2026-01-06 11:20:09,7,White Gold Plated Princess,jewelery,3,9.99,29.97,CUST0086,2026-02-06 11:20:09.824893
+TXN000217,2026-01-15 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0131,2026-02-06 11:20:09.825067
+TXN000218,2025-11-13 11:20:09,7,White Gold Plated Princess,jewelery,3,9.99,29.97,CUST0131,2026-02-06 11:20:09.825237
+TXN000219,2026-01-07 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0183,2026-02-06 11:20:09.825420
+TXN000220,2026-01-21 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0156,2026-02-06 11:20:09.825598
+TXN000221,2026-02-02 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0198,2026-02-06 11:20:09.825769
+TXN000222,2026-01-21 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0113,2026-02-06 11:20:09.825939
+TXN000223,2026-01-22 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0166,2026-02-06 11:20:09.826121
+TXN000224,2025-12-12 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0164,2026-02-06 11:20:09.826294
+TXN000225,2025-11-22 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0131,2026-02-06 11:20:09.826463
+TXN000226,2025-12-16 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0181,2026-02-06 11:20:09.826630
+TXN000227,2025-12-03 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0119,2026-02-06 11:20:09.826827
+TXN000228,2025-12-17 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0179,2026-02-06 11:20:09.827013
+TXN000229,2026-01-14 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0179,2026-02-06 11:20:09.827183
+TXN000230,2025-12-30 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0110,2026-02-06 11:20:09.827354
+TXN000231,2025-12-29 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,3,22.3,66.9,CUST0034,2026-02-06 11:20:09.827536
+TXN000232,2025-12-28 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0195,2026-02-06 11:20:09.827711
+TXN000233,2025-12-29 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0113,2026-02-06 11:20:09.827884
+TXN000234,2025-12-03 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,1,9.85,9.85,CUST0048,2026-02-06 11:20:09.828058
+TXN000235,2025-11-30 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0041,2026-02-06 11:20:09.828245
+TXN000236,2025-11-24 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0071,2026-02-06 11:20:09.828420
+TXN000237,2025-11-09 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,1,10.99,10.99,CUST0105,2026-02-06 11:20:09.828609
+TXN000238,2026-01-18 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,5,9.85,49.25,CUST0071,2026-02-06 11:20:09.828784
+TXN000239,2025-12-13 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0088,2026-02-06 11:20:09.828970
+TXN000240,2026-01-24 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0054,2026-02-06 11:20:09.829142
+TXN000241,2025-11-18 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0106,2026-02-06 11:20:09.829317
+TXN000242,2026-01-08 11:20:09,7,White Gold Plated Princess,jewelery,2,9.99,19.98,CUST0147,2026-02-06 11:20:09.829484
+TXN000243,2026-01-05 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0197,2026-02-06 11:20:09.829661
+TXN000244,2026-02-06 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0116,2026-02-06 11:20:09.829834
+TXN000245,2026-01-06 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0091,2026-02-06 11:20:09.830004
+TXN000246,2025-12-10 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0123,2026-02-06 11:20:09.830186
+TXN000247,2025-12-09 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0190,2026-02-06 11:20:09.830361
+TXN000248,2025-12-02 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0045,2026-02-06 11:20:09.830553
+TXN000249,2025-12-09 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0046,2026-02-06 11:20:09.830737
+TXN000250,2025-12-10 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,114.0,114.0,CUST0124,2026-02-06 11:20:09.830921
+TXN000251,2025-11-15 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0157,2026-02-06 11:20:09.831107
+TXN000252,2025-12-02 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0034,2026-02-06 11:20:09.831286
+TXN000253,2026-01-31 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0098,2026-02-06 11:20:09.831457
+TXN000254,2025-11-25 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,5,599.0,2995.0,CUST0176,2026-02-06 11:20:09.831642
+TXN000255,2026-01-08 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0062,2026-02-06 11:20:09.831842
+TXN000256,2025-12-23 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0077,2026-02-06 11:20:09.832030
+TXN000257,2025-12-15 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0089,2026-02-06 11:20:09.832200
+TXN000258,2026-01-20 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0190,2026-02-06 11:20:09.832367
+TXN000259,2026-01-26 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0188,2026-02-06 11:20:09.832558
+TXN000260,2025-12-21 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0005,2026-02-06 11:20:09.832743
+TXN000261,2025-12-21 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0186,2026-02-06 11:20:09.832914
+TXN000262,2025-12-18 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0006,2026-02-06 11:20:09.833084
+TXN000263,2025-12-23 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,1,39.99,39.99,CUST0002,2026-02-06 11:20:09.833265
+TXN000264,2025-11-09 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0187,2026-02-06 11:20:09.833436
+TXN000265,2026-01-18 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0122,2026-02-06 11:20:09.833796
+TXN000266,2025-12-06 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,3,12.99,38.97,CUST0042,2026-02-06 11:20:09.834920
+TXN000267,2026-01-02 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0169,2026-02-06 11:20:09.835233
+TXN000268,2026-01-29 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,1,10.99,10.99,CUST0038,2026-02-06 11:20:09.835456
+TXN000269,2025-12-25 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0120,2026-02-06 11:20:09.835670
+TXN000270,2025-11-25 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0094,2026-02-06 11:20:09.835856
+TXN000271,2025-12-27 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0011,2026-02-06 11:20:09.836034
+TXN000272,2026-01-18 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0160,2026-02-06 11:20:09.836228
+TXN000273,2026-01-26 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0037,2026-02-06 11:20:09.836425
+TXN000274,2026-01-10 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0009,2026-02-06 11:20:09.836622
+TXN000275,2025-12-10 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0008,2026-02-06 11:20:09.836813
+TXN000276,2025-11-30 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0128,2026-02-06 11:20:09.836987
+TXN000277,2025-12-22 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0105,2026-02-06 11:20:09.837181
+TXN000278,2025-12-03 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,2,599.0,1198.0,CUST0096,2026-02-06 11:20:09.837367
+TXN000279,2025-12-11 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0173,2026-02-06 11:20:09.837540
+TXN000280,2025-12-10 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0040,2026-02-06 11:20:09.837711
+TXN000281,2026-01-19 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0155,2026-02-06 11:20:09.837885
+TXN000282,2026-01-25 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0098,2026-02-06 11:20:09.838067
+TXN000283,2025-12-23 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0166,2026-02-06 11:20:09.838258
+TXN000284,2025-11-16 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0181,2026-02-06 11:20:09.838424
+TXN000285,2026-01-21 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0046,2026-02-06 11:20:09.838591
+TXN000286,2025-11-15 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0124,2026-02-06 11:20:09.838828
+TXN000287,2025-12-30 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0001,2026-02-06 11:20:09.839020
+TXN000288,2026-01-08 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0052,2026-02-06 11:20:09.839214
+TXN000289,2025-12-15 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0131,2026-02-06 11:20:09.839387
+TXN000290,2025-12-18 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0043,2026-02-06 11:20:09.839557
+TXN000291,2025-12-26 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0155,2026-02-06 11:20:09.839765
+TXN000292,2025-12-08 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0102,2026-02-06 11:20:09.839935
+TXN000293,2025-11-09 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0198,2026-02-06 11:20:09.840109
+TXN000294,2025-12-26 11:20:09,7,White Gold Plated Princess,jewelery,3,9.99,29.97,CUST0052,2026-02-06 11:20:09.840277
+TXN000295,2025-12-06 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0196,2026-02-06 11:20:09.840448
+TXN000296,2025-12-20 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0087,2026-02-06 11:20:09.840635
+TXN000297,2025-11-13 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0187,2026-02-06 11:20:09.840833
+TXN000298,2026-01-08 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0153,2026-02-06 11:20:09.841106
+TXN000299,2026-02-03 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0141,2026-02-06 11:20:09.841303
+TXN000300,2026-01-07 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0076,2026-02-06 11:20:09.841488
+TXN000301,2026-02-03 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0177,2026-02-06 11:20:09.841663
+TXN000302,2025-11-19 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0075,2026-02-06 11:20:09.841836
+TXN000303,2026-01-05 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0137,2026-02-06 11:20:09.842020
+TXN000304,2025-12-19 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0198,2026-02-06 11:20:09.842195
+TXN000305,2025-12-17 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0171,2026-02-06 11:20:09.842369
+TXN000306,2025-12-10 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0074,2026-02-06 11:20:09.842556
+TXN000307,2025-11-12 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0145,2026-02-06 11:20:09.842771
+TXN000308,2025-11-30 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0101,2026-02-06 11:20:09.842949
+TXN000309,2026-01-07 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0084,2026-02-06 11:20:09.843120
+TXN000310,2025-12-13 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0192,2026-02-06 11:20:09.843291
+TXN000311,2025-11-25 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0166,2026-02-06 11:20:09.843473
+TXN000312,2025-12-03 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0109,2026-02-06 11:20:09.843661
+TXN000313,2025-11-26 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,1,29.95,29.95,CUST0083,2026-02-06 11:20:09.843832
+TXN000314,2025-12-28 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0102,2026-02-06 11:20:09.844003
+TXN000315,2026-02-05 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0146,2026-02-06 11:20:09.844193
+TXN000316,2025-11-27 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0187,2026-02-06 11:20:09.844372
+TXN000317,2025-11-24 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0077,2026-02-06 11:20:09.844558
+TXN000318,2025-12-21 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,1,10.99,10.99,CUST0091,2026-02-06 11:20:09.844760
+TXN000319,2025-12-06 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0152,2026-02-06 11:20:09.844957
+TXN000320,2025-11-15 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0188,2026-02-06 11:20:09.845140
+TXN000321,2025-12-11 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0145,2026-02-06 11:20:09.845313
+TXN000322,2026-01-09 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0099,2026-02-06 11:20:09.845539
+TXN000323,2025-12-23 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0050,2026-02-06 11:20:09.845874
+TXN000324,2025-12-25 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0156,2026-02-06 11:20:09.846074
+TXN000325,2026-01-05 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0020,2026-02-06 11:20:09.846258
+TXN000326,2025-11-29 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0010,2026-02-06 11:20:09.846446
+TXN000327,2025-11-19 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0148,2026-02-06 11:20:09.846657
+TXN000328,2026-01-26 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0012,2026-02-06 11:20:09.846856
+TXN000329,2025-12-07 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0051,2026-02-06 11:20:09.847035
+TXN000330,2026-01-02 11:20:09,7,White Gold Plated Princess,jewelery,1,9.99,9.99,CUST0060,2026-02-06 11:20:09.847210
+TXN000331,2025-12-28 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0128,2026-02-06 11:20:09.847390
+TXN000332,2025-11-14 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0136,2026-02-06 11:20:09.847581
+TXN000333,2025-11-13 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0093,2026-02-06 11:20:09.847755
+TXN000334,2025-11-14 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0102,2026-02-06 11:20:09.847924
+TXN000335,2025-12-28 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0194,2026-02-06 11:20:09.848096
+TXN000336,2025-12-01 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0165,2026-02-06 11:20:09.848273
+TXN000337,2025-12-26 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0138,2026-02-06 11:20:09.848446
+TXN000338,2025-11-22 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0132,2026-02-06 11:20:09.848649
+TXN000339,2026-01-12 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0137,2026-02-06 11:20:09.848839
+TXN000340,2025-11-23 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0157,2026-02-06 11:20:09.849012
+TXN000341,2025-12-20 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0104,2026-02-06 11:20:09.849191
+TXN000342,2025-11-20 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0002,2026-02-06 11:20:09.849383
+TXN000343,2026-01-30 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0073,2026-02-06 11:20:09.849642
+TXN000344,2025-11-11 11:20:09,7,White Gold Plated Princess,jewelery,2,9.99,19.98,CUST0145,2026-02-06 11:20:09.849857
+TXN000345,2026-01-20 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0181,2026-02-06 11:20:09.850061
+TXN000346,2025-11-22 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0125,2026-02-06 11:20:09.850265
+TXN000347,2025-12-04 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0173,2026-02-06 11:20:09.850473
+TXN000348,2025-12-10 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0195,2026-02-06 11:20:09.851053
+TXN000349,2025-11-10 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0186,2026-02-06 11:20:09.851363
+TXN000350,2026-01-22 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0036,2026-02-06 11:20:09.851585
+TXN000351,2025-11-09 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0166,2026-02-06 11:20:09.851784
+TXN000352,2025-12-20 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0134,2026-02-06 11:20:09.851985
+TXN000353,2026-01-26 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0150,2026-02-06 11:20:09.852181
+TXN000354,2025-12-22 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0033,2026-02-06 11:20:09.852380
+TXN000355,2025-11-17 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0007,2026-02-06 11:20:09.852571
+TXN000356,2025-12-24 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0035,2026-02-06 11:20:09.852767
+TXN000357,2025-12-14 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0066,2026-02-06 11:20:09.852960
+TXN000358,2025-11-23 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,1,39.99,39.99,CUST0168,2026-02-06 11:20:09.853151
+TXN000359,2026-01-28 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0116,2026-02-06 11:20:09.853337
+TXN000360,2025-12-10 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0176,2026-02-06 11:20:09.853516
+TXN000361,2026-01-31 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0105,2026-02-06 11:20:09.853706
+TXN000362,2026-02-06 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0179,2026-02-06 11:20:09.853880
+TXN000363,2026-01-01 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0159,2026-02-06 11:20:09.854050
+TXN000364,2026-01-15 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0057,2026-02-06 11:20:09.854235
+TXN000365,2026-01-06 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0107,2026-02-06 11:20:09.854411
+TXN000366,2025-11-23 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,1,29.95,29.95,CUST0168,2026-02-06 11:20:09.854582
+TXN000367,2026-01-22 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0033,2026-02-06 11:20:09.854783
+TXN000368,2025-12-21 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0166,2026-02-06 11:20:09.854993
+TXN000369,2026-01-08 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0158,2026-02-06 11:20:09.855182
+TXN000370,2025-11-08 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,1,39.99,39.99,CUST0200,2026-02-06 11:20:09.855361
+TXN000371,2026-01-17 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,1,29.95,29.95,CUST0084,2026-02-06 11:20:09.855552
+TXN000372,2025-12-30 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0040,2026-02-06 11:20:09.855747
+TXN000373,2025-12-02 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0171,2026-02-06 11:20:09.855951
+TXN000374,2025-11-21 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0184,2026-02-06 11:20:09.856132
+TXN000375,2026-01-22 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,1,999.99,999.99,CUST0022,2026-02-06 11:20:09.856304
+TXN000376,2026-01-05 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0076,2026-02-06 11:20:09.856476
+TXN000377,2026-01-26 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0011,2026-02-06 11:20:09.856643
+TXN000378,2025-11-18 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0134,2026-02-06 11:20:09.856864
+TXN000379,2025-12-10 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0106,2026-02-06 11:20:09.857046
+TXN000380,2025-11-11 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0080,2026-02-06 11:20:09.857216
+TXN000381,2026-02-02 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0158,2026-02-06 11:20:09.857385
+TXN000382,2026-01-28 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0031,2026-02-06 11:20:09.857552
+TXN000383,2025-12-17 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0131,2026-02-06 11:20:09.857746
+TXN000384,2026-01-18 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0117,2026-02-06 11:20:09.857929
+TXN000385,2025-12-16 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0196,2026-02-06 11:20:09.858102
+TXN000386,2025-11-20 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0159,2026-02-06 11:20:09.858269
+TXN000387,2025-11-23 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0005,2026-02-06 11:20:09.858451
+TXN000388,2026-01-13 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0186,2026-02-06 11:20:09.858631
+TXN000389,2026-01-16 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0085,2026-02-06 11:20:09.858840
+TXN000390,2025-12-03 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0013,2026-02-06 11:20:09.859020
+TXN000391,2026-01-06 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0026,2026-02-06 11:20:09.859205
+TXN000392,2026-01-31 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0042,2026-02-06 11:20:09.859385
+TXN000393,2025-11-24 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0166,2026-02-06 11:20:09.859557
+TXN000394,2026-01-15 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0177,2026-02-06 11:20:09.859744
+TXN000395,2025-12-18 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,1,999.99,999.99,CUST0135,2026-02-06 11:20:09.859922
+TXN000396,2025-11-16 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0035,2026-02-06 11:20:09.860103
+TXN000397,2026-01-10 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0062,2026-02-06 11:20:09.860281
+TXN000398,2025-12-09 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,5,695.0,3475.0,CUST0156,2026-02-06 11:20:09.860466
+TXN000399,2026-01-20 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0141,2026-02-06 11:20:09.860632
+TXN000400,2026-01-22 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0189,2026-02-06 11:20:09.860820
+TXN000401,2025-12-16 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0164,2026-02-06 11:20:09.861021
+TXN000402,2025-12-02 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,1,56.99,56.99,CUST0170,2026-02-06 11:20:09.861201
+TXN000403,2026-02-04 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,1,9.85,9.85,CUST0039,2026-02-06 11:20:09.861373
+TXN000404,2026-01-15 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,2,114.0,228.0,CUST0099,2026-02-06 11:20:09.861571
+TXN000405,2026-01-04 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0115,2026-02-06 11:20:09.861757
+TXN000406,2025-12-28 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0058,2026-02-06 11:20:09.861933
+TXN000407,2025-12-16 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0147,2026-02-06 11:20:09.862102
+TXN000408,2026-01-18 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0061,2026-02-06 11:20:09.862272
+TXN000409,2026-01-18 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0148,2026-02-06 11:20:09.862451
+TXN000410,2025-12-07 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0134,2026-02-06 11:20:09.862647
+TXN000411,2026-01-12 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0112,2026-02-06 11:20:09.862842
+TXN000412,2026-01-08 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,5,9.85,49.25,CUST0088,2026-02-06 11:20:09.863020
+TXN000413,2026-01-14 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0082,2026-02-06 11:20:09.863190
+TXN000414,2025-11-25 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0088,2026-02-06 11:20:09.863373
+TXN000415,2026-01-10 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0047,2026-02-06 11:20:09.863574
+TXN000416,2025-11-08 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0182,2026-02-06 11:20:09.863745
+TXN000417,2025-11-12 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0121,2026-02-06 11:20:09.863919
+TXN000418,2026-01-13 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,1,9.85,9.85,CUST0189,2026-02-06 11:20:09.864098
+TXN000419,2026-01-13 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0157,2026-02-06 11:20:09.864277
+TXN000420,2026-01-18 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0113,2026-02-06 11:20:09.864452
+TXN000421,2025-12-10 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0041,2026-02-06 11:20:09.864624
+TXN000422,2025-11-12 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0109,2026-02-06 11:20:09.864808
+TXN000423,2025-11-10 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0040,2026-02-06 11:20:09.865000
+TXN000424,2025-12-03 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0199,2026-02-06 11:20:09.865187
+TXN000425,2026-01-23 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0014,2026-02-06 11:20:09.865385
+TXN000426,2026-01-06 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0177,2026-02-06 11:20:09.865559
+TXN000427,2026-01-20 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0133,2026-02-06 11:20:09.865727
+TXN000428,2025-12-05 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0010,2026-02-06 11:20:09.865897
+TXN000429,2025-11-21 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0179,2026-02-06 11:20:09.866083
+TXN000430,2025-12-12 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,1,9.85,9.85,CUST0032,2026-02-06 11:20:09.866475
+TXN000431,2026-01-02 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0128,2026-02-06 11:20:09.866733
+TXN000432,2026-01-01 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0095,2026-02-06 11:20:09.866949
+TXN000433,2026-01-02 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0194,2026-02-06 11:20:09.867244
+TXN000434,2025-12-05 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0083,2026-02-06 11:20:09.867513
+TXN000435,2026-02-06 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0094,2026-02-06 11:20:09.867782
+TXN000436,2025-12-05 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0037,2026-02-06 11:20:09.867997
+TXN000437,2026-01-07 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0018,2026-02-06 11:20:09.868372
+TXN000438,2025-12-30 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0119,2026-02-06 11:20:09.868596
+TXN000439,2025-12-18 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0089,2026-02-06 11:20:09.868999
+TXN000440,2025-12-25 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0107,2026-02-06 11:20:09.869402
+TXN000441,2026-01-29 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0180,2026-02-06 11:20:09.869634
+TXN000442,2025-12-08 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0054,2026-02-06 11:20:09.869839
+TXN000443,2025-12-09 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0060,2026-02-06 11:20:09.870037
+TXN000444,2026-01-27 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,1,9.85,9.85,CUST0070,2026-02-06 11:20:09.870231
+TXN000445,2025-12-05 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0066,2026-02-06 11:20:09.870426
+TXN000446,2025-12-07 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0057,2026-02-06 11:20:09.870636
+TXN000447,2026-01-27 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,5,599.0,2995.0,CUST0109,2026-02-06 11:20:09.870825
+TXN000448,2026-01-26 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,3,12.99,38.97,CUST0026,2026-02-06 11:20:09.871022
+TXN000449,2025-12-23 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0124,2026-02-06 11:20:09.871230
+TXN000450,2025-11-21 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0119,2026-02-06 11:20:09.871419
+TXN000451,2025-11-16 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0156,2026-02-06 11:20:09.871596
+TXN000452,2026-01-23 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0165,2026-02-06 11:20:09.871769
+TXN000453,2026-02-05 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0001,2026-02-06 11:20:09.871954
+TXN000454,2025-11-13 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0087,2026-02-06 11:20:09.872147
+TXN000455,2025-12-28 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0129,2026-02-06 11:20:09.872331
+TXN000456,2025-12-14 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0071,2026-02-06 11:20:09.872524
+TXN000457,2026-01-03 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0065,2026-02-06 11:20:09.872728
+TXN000458,2026-01-12 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0031,2026-02-06 11:20:09.872910
+TXN000459,2025-12-26 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,2,599.0,1198.0,CUST0088,2026-02-06 11:20:09.873085
+TXN000460,2025-12-03 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0134,2026-02-06 11:20:09.873256
+TXN000461,2026-01-05 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,1,56.99,56.99,CUST0160,2026-02-06 11:20:09.873431
+TXN000462,2026-01-16 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0130,2026-02-06 11:20:09.873610
+TXN000463,2025-11-17 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0121,2026-02-06 11:20:09.873782
+TXN000464,2025-11-15 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0182,2026-02-06 11:20:09.873953
+TXN000465,2026-01-29 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0115,2026-02-06 11:20:09.874148
+TXN000466,2026-01-23 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0087,2026-02-06 11:20:09.874411
+TXN000467,2026-01-04 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0084,2026-02-06 11:20:09.874618
+TXN000468,2025-11-13 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0134,2026-02-06 11:20:09.874797
+TXN000469,2026-01-08 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0157,2026-02-06 11:20:09.874984
+TXN000470,2026-01-22 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0183,2026-02-06 11:20:09.875168
+TXN000471,2025-11-08 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0049,2026-02-06 11:20:09.875344
+TXN000472,2026-01-12 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0028,2026-02-06 11:20:09.875516
+TXN000473,2025-11-08 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,2,114.0,228.0,CUST0147,2026-02-06 11:20:09.875687
+TXN000474,2026-01-05 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0050,2026-02-06 11:20:09.875872
+TXN000475,2025-12-03 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0017,2026-02-06 11:20:09.876051
+TXN000476,2025-12-29 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0110,2026-02-06 11:20:09.876222
+TXN000477,2026-01-03 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0112,2026-02-06 11:20:09.876389
+TXN000478,2025-12-14 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0180,2026-02-06 11:20:09.876595
+TXN000479,2026-02-03 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0124,2026-02-06 11:20:09.876801
+TXN000480,2026-01-09 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0045,2026-02-06 11:20:09.876988
+TXN000481,2025-12-05 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0093,2026-02-06 11:20:09.877166
+TXN000482,2025-12-09 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0049,2026-02-06 11:20:09.877338
+TXN000483,2026-01-17 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0154,2026-02-06 11:20:09.877520
+TXN000484,2025-12-21 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,1,10.99,10.99,CUST0177,2026-02-06 11:20:09.877695
+TXN000485,2025-11-22 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0064,2026-02-06 11:20:09.877870
+TXN000486,2026-01-03 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0185,2026-02-06 11:20:09.878047
+TXN000487,2025-12-18 11:20:09,7,White Gold Plated Princess,jewelery,3,9.99,29.97,CUST0081,2026-02-06 11:20:09.878239
+TXN000488,2025-11-11 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,1,999.99,999.99,CUST0033,2026-02-06 11:20:09.878419
+TXN000489,2025-12-25 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0144,2026-02-06 11:20:09.878614
+TXN000490,2025-11-20 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0141,2026-02-06 11:20:09.878788
+TXN000491,2025-11-09 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0003,2026-02-06 11:20:09.878964
+TXN000492,2025-12-02 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0185,2026-02-06 11:20:09.879142
+TXN000493,2025-11-14 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0063,2026-02-06 11:20:09.879315
+TXN000494,2025-12-16 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0092,2026-02-06 11:20:09.879488
+TXN000495,2025-11-09 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0109,2026-02-06 11:20:09.879657
+TXN000496,2025-11-19 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0094,2026-02-06 11:20:09.879838
+TXN000497,2026-01-29 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0049,2026-02-06 11:20:09.880016
+TXN000498,2026-01-05 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0152,2026-02-06 11:20:09.880189
+TXN000499,2025-12-28 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0045,2026-02-06 11:20:09.880366
+TXN000500,2026-01-17 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0005,2026-02-06 11:20:09.880568
+TXN000501,2025-12-12 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0096,2026-02-06 11:20:09.880750
+TXN000502,2026-01-09 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,2,9.85,19.7,CUST0195,2026-02-06 11:20:09.880925
+TXN000503,2026-01-10 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,3,109.0,327.0,CUST0159,2026-02-06 11:20:09.881120
+TXN000504,2025-12-06 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0052,2026-02-06 11:20:09.881300
+TXN000505,2025-12-20 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0083,2026-02-06 11:20:09.881472
+TXN000506,2025-11-29 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0156,2026-02-06 11:20:09.881640
+TXN000507,2026-02-06 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0171,2026-02-06 11:20:09.881832
+TXN000508,2025-12-13 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0014,2026-02-06 11:20:09.882198
+TXN000509,2025-12-06 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0080,2026-02-06 11:20:09.882453
+TXN000510,2026-01-06 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0008,2026-02-06 11:20:09.882715
+TXN000511,2025-12-01 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0152,2026-02-06 11:20:09.882917
+TXN000512,2026-02-01 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0006,2026-02-06 11:20:09.883105
+TXN000513,2025-11-22 11:20:09,7,White Gold Plated Princess,jewelery,2,9.99,19.98,CUST0188,2026-02-06 11:20:09.883286
+TXN000514,2025-11-25 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0141,2026-02-06 11:20:09.883496
+TXN000515,2026-01-20 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0021,2026-02-06 11:20:09.883685
+TXN000516,2025-12-14 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0024,2026-02-06 11:20:09.883953
+TXN000517,2025-11-21 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0019,2026-02-06 11:20:09.884209
+TXN000518,2025-12-15 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0088,2026-02-06 11:20:09.884446
+TXN000519,2025-12-21 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0096,2026-02-06 11:20:09.884636
+TXN000520,2026-01-17 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0066,2026-02-06 11:20:09.884854
+TXN000521,2025-11-13 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0026,2026-02-06 11:20:09.885057
+TXN000522,2025-11-19 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0079,2026-02-06 11:20:09.885243
+TXN000523,2026-01-17 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,3,109.0,327.0,CUST0036,2026-02-06 11:20:09.885420
+TXN000524,2025-11-23 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0161,2026-02-06 11:20:09.885592
+TXN000525,2025-11-20 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0152,2026-02-06 11:20:09.885767
+TXN000526,2025-12-05 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0037,2026-02-06 11:20:09.885947
+TXN000527,2026-01-07 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0007,2026-02-06 11:20:09.886127
+TXN000528,2025-11-21 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,5,999.99,4999.95,CUST0076,2026-02-06 11:20:09.886302
+TXN000529,2026-01-07 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0124,2026-02-06 11:20:09.886491
+TXN000530,2025-12-18 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0127,2026-02-06 11:20:09.886670
+TXN000531,2026-01-19 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0151,2026-02-06 11:20:09.886870
+TXN000532,2026-01-13 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0141,2026-02-06 11:20:09.887053
+TXN000533,2025-12-21 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0149,2026-02-06 11:20:09.887237
+TXN000534,2026-01-22 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0056,2026-02-06 11:20:09.887415
+TXN000535,2026-01-26 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0171,2026-02-06 11:20:09.887586
+TXN000536,2026-02-03 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,1,29.95,29.95,CUST0164,2026-02-06 11:20:09.887764
+TXN000537,2026-01-06 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0175,2026-02-06 11:20:09.887948
+TXN000538,2026-01-11 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0070,2026-02-06 11:20:09.888123
+TXN000539,2025-11-22 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0054,2026-02-06 11:20:09.888293
+TXN000540,2025-12-22 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0081,2026-02-06 11:20:09.888462
+TXN000541,2026-01-15 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0122,2026-02-06 11:20:09.888646
+TXN000542,2026-02-06 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0097,2026-02-06 11:20:09.888887
+TXN000543,2026-01-15 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0158,2026-02-06 11:20:09.889069
+TXN000544,2026-01-27 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0175,2026-02-06 11:20:09.889240
+TXN000545,2026-01-28 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0028,2026-02-06 11:20:09.889422
+TXN000546,2026-01-10 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0180,2026-02-06 11:20:09.889600
+TXN000547,2025-12-15 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0084,2026-02-06 11:20:09.889773
+TXN000548,2025-12-10 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,3,12.99,38.97,CUST0091,2026-02-06 11:20:09.889957
+TXN000549,2025-12-21 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0198,2026-02-06 11:20:09.890132
+TXN000550,2025-12-10 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0112,2026-02-06 11:20:09.890303
+TXN000551,2025-12-30 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0065,2026-02-06 11:20:09.890471
+TXN000552,2026-01-10 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0018,2026-02-06 11:20:09.890639
+TXN000553,2025-12-05 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0051,2026-02-06 11:20:09.890847
+TXN000554,2025-11-22 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0140,2026-02-06 11:20:09.891029
+TXN000555,2026-02-01 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0072,2026-02-06 11:20:09.891202
+TXN000556,2026-01-05 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0103,2026-02-06 11:20:09.891372
+TXN000557,2026-01-21 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,1,9.85,9.85,CUST0193,2026-02-06 11:20:09.891553
+TXN000558,2025-11-28 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0059,2026-02-06 11:20:09.891725
+TXN000559,2025-12-24 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0181,2026-02-06 11:20:09.891897
+TXN000560,2025-11-20 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0122,2026-02-06 11:20:09.892078
+TXN000561,2026-01-09 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0055,2026-02-06 11:20:09.892252
+TXN000562,2025-11-24 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0038,2026-02-06 11:20:09.892422
+TXN000563,2026-01-04 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0181,2026-02-06 11:20:09.892597
+TXN000564,2026-02-02 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0146,2026-02-06 11:20:09.892811
+TXN000565,2025-12-28 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0191,2026-02-06 11:20:09.892997
+TXN000566,2026-01-01 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,1,10.99,10.99,CUST0127,2026-02-06 11:20:09.893169
+TXN000567,2026-01-03 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0027,2026-02-06 11:20:09.893336
+TXN000568,2025-12-31 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0050,2026-02-06 11:20:09.893516
+TXN000569,2026-01-01 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0182,2026-02-06 11:20:09.893693
+TXN000570,2025-12-06 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0037,2026-02-06 11:20:09.893866
+TXN000571,2025-12-20 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0132,2026-02-06 11:20:09.894066
+TXN000572,2025-12-17 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,1,39.99,39.99,CUST0196,2026-02-06 11:20:09.894261
+TXN000573,2026-01-19 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0078,2026-02-06 11:20:09.894434
+TXN000574,2026-01-20 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0173,2026-02-06 11:20:09.894618
+TXN000575,2026-01-08 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0151,2026-02-06 11:20:09.894796
+TXN000576,2026-01-26 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0040,2026-02-06 11:20:09.894970
+TXN000577,2025-12-02 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0042,2026-02-06 11:20:09.895138
+TXN000578,2026-01-24 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0174,2026-02-06 11:20:09.895362
+TXN000579,2025-11-16 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0152,2026-02-06 11:20:09.895565
+TXN000580,2026-02-03 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0049,2026-02-06 11:20:09.895747
+TXN000581,2026-01-03 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0129,2026-02-06 11:20:09.895931
+TXN000582,2025-12-24 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0154,2026-02-06 11:20:09.896112
+TXN000583,2025-11-26 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0075,2026-02-06 11:20:09.896307
+TXN000584,2026-01-23 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0090,2026-02-06 11:20:09.896511
+TXN000585,2026-01-26 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0177,2026-02-06 11:20:09.896712
+TXN000586,2025-11-19 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0186,2026-02-06 11:20:09.896914
+TXN000587,2026-02-03 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0131,2026-02-06 11:20:09.897110
+TXN000588,2026-01-17 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,5,695.0,3475.0,CUST0094,2026-02-06 11:20:09.897310
+TXN000589,2025-12-26 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0017,2026-02-06 11:20:09.897560
+TXN000590,2026-01-26 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0010,2026-02-06 11:20:09.897783
+TXN000591,2025-12-31 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0062,2026-02-06 11:20:09.897997
+TXN000592,2026-01-25 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0141,2026-02-06 11:20:09.898282
+TXN000593,2025-11-30 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0090,2026-02-06 11:20:09.898510
+TXN000594,2025-11-14 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0191,2026-02-06 11:20:09.898732
+TXN000595,2025-12-03 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0070,2026-02-06 11:20:09.898947
+TXN000596,2026-01-07 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0091,2026-02-06 11:20:09.899149
+TXN000597,2025-11-23 11:20:09,4,Mens Casual Slim Fit,men's clothing,2,15.99,31.98,CUST0025,2026-02-06 11:20:09.899431
+TXN000598,2025-11-12 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0171,2026-02-06 11:20:09.899770
+TXN000599,2026-01-22 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0155,2026-02-06 11:20:09.900033
+TXN000600,2025-12-31 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,3,56.99,170.97,CUST0100,2026-02-06 11:20:09.900262
+TXN000601,2026-02-05 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0122,2026-02-06 11:20:09.900495
+TXN000602,2026-01-15 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0143,2026-02-06 11:20:09.900711
+TXN000603,2026-01-28 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,5,599.0,2995.0,CUST0132,2026-02-06 11:20:09.900933
+TXN000604,2026-01-29 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0091,2026-02-06 11:20:09.901185
+TXN000605,2026-01-25 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0173,2026-02-06 11:20:09.901413
+TXN000606,2026-01-05 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0077,2026-02-06 11:20:09.901622
+TXN000607,2026-01-18 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0118,2026-02-06 11:20:09.901825
+TXN000608,2025-11-27 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0107,2026-02-06 11:20:09.902043
+TXN000609,2025-12-04 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0010,2026-02-06 11:20:09.902299
+TXN000610,2026-01-19 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0133,2026-02-06 11:20:09.902508
+TXN000611,2025-11-09 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0102,2026-02-06 11:20:09.902702
+TXN000612,2026-01-08 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0007,2026-02-06 11:20:09.902888
+TXN000613,2026-01-20 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0057,2026-02-06 11:20:09.903114
+TXN000614,2026-01-03 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0157,2026-02-06 11:20:09.903324
+TXN000615,2026-01-29 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0021,2026-02-06 11:20:09.903515
+TXN000616,2026-01-01 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0017,2026-02-06 11:20:09.903701
+TXN000617,2025-11-29 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0120,2026-02-06 11:20:09.903884
+TXN000618,2026-01-07 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0090,2026-02-06 11:20:09.904065
+TXN000619,2025-11-18 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0183,2026-02-06 11:20:09.904241
+TXN000620,2025-12-30 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0006,2026-02-06 11:20:09.904414
+TXN000621,2026-01-18 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0083,2026-02-06 11:20:09.904599
+TXN000622,2025-12-17 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,5,999.99,4999.95,CUST0138,2026-02-06 11:20:09.904774
+TXN000623,2026-01-01 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0030,2026-02-06 11:20:09.904945
+TXN000624,2025-12-19 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0145,2026-02-06 11:20:09.905131
+TXN000625,2025-12-26 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0113,2026-02-06 11:20:09.905326
+TXN000626,2025-12-17 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0112,2026-02-06 11:20:09.905521
+TXN000627,2025-12-11 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0137,2026-02-06 11:20:09.905689
+TXN000628,2026-01-01 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0085,2026-02-06 11:20:09.905966
+TXN000629,2026-02-03 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0034,2026-02-06 11:20:09.906194
+TXN000630,2026-01-30 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0055,2026-02-06 11:20:09.906385
+TXN000631,2026-02-05 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0088,2026-02-06 11:20:09.906564
+TXN000632,2025-12-18 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0047,2026-02-06 11:20:09.906744
+TXN000633,2025-12-19 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0035,2026-02-06 11:20:09.906926
+TXN000634,2026-01-02 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0090,2026-02-06 11:20:09.907115
+TXN000635,2026-01-18 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0086,2026-02-06 11:20:09.907294
+TXN000636,2025-11-19 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,1,9.85,9.85,CUST0150,2026-02-06 11:20:09.907464
+TXN000637,2026-01-19 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0052,2026-02-06 11:20:09.907649
+TXN000638,2026-01-30 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0136,2026-02-06 11:20:09.907823
+TXN000639,2025-12-26 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0101,2026-02-06 11:20:09.907994
+TXN000640,2025-12-31 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0071,2026-02-06 11:20:09.908160
+TXN000641,2025-12-12 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0167,2026-02-06 11:20:09.908336
+TXN000642,2025-12-16 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0178,2026-02-06 11:20:09.908513
+TXN000643,2025-11-27 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0047,2026-02-06 11:20:09.908683
+TXN000644,2026-01-08 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0101,2026-02-06 11:20:09.908859
+TXN000645,2025-11-23 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,3,109.0,327.0,CUST0123,2026-02-06 11:20:09.909027
+TXN000646,2026-02-01 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,3,109.0,327.0,CUST0141,2026-02-06 11:20:09.909227
+TXN000647,2026-01-29 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0096,2026-02-06 11:20:09.909411
+TXN000648,2026-02-06 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0131,2026-02-06 11:20:09.909585
+TXN000649,2025-11-08 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,3,56.99,170.97,CUST0059,2026-02-06 11:20:09.909755
+TXN000650,2025-12-16 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0047,2026-02-06 11:20:09.909954
+TXN000651,2026-01-01 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0043,2026-02-06 11:20:09.910140
+TXN000652,2025-12-02 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0175,2026-02-06 11:20:09.910313
+TXN000653,2026-01-26 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0117,2026-02-06 11:20:09.910486
+TXN000654,2026-01-04 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0007,2026-02-06 11:20:09.910656
+TXN000655,2026-02-02 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0179,2026-02-06 11:20:09.910836
+TXN000656,2026-01-12 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0037,2026-02-06 11:20:09.911009
+TXN000657,2026-01-26 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0053,2026-02-06 11:20:09.911202
+TXN000658,2026-01-06 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0198,2026-02-06 11:20:09.911383
+TXN000659,2026-01-24 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0027,2026-02-06 11:20:09.911573
+TXN000660,2025-11-17 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0057,2026-02-06 11:20:09.911756
+TXN000661,2025-12-30 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,3,22.3,66.9,CUST0030,2026-02-06 11:20:09.911927
+TXN000662,2025-12-19 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,3,22.3,66.9,CUST0114,2026-02-06 11:20:09.912096
+TXN000663,2025-11-10 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0118,2026-02-06 11:20:09.912264
+TXN000664,2025-12-18 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0095,2026-02-06 11:20:09.912436
+TXN000665,2026-01-07 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0021,2026-02-06 11:20:09.912619
+TXN000666,2025-12-26 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0151,2026-02-06 11:20:09.912794
+TXN000667,2026-01-04 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0170,2026-02-06 11:20:09.912963
+TXN000668,2026-01-02 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0068,2026-02-06 11:20:09.913151
+TXN000669,2025-12-07 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,5,29.95,149.75,CUST0028,2026-02-06 11:20:09.913342
+TXN000670,2025-12-09 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0198,2026-02-06 11:20:09.913513
+TXN000671,2025-11-14 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0037,2026-02-06 11:20:09.913682
+TXN000672,2026-01-10 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0085,2026-02-06 11:20:09.913849
+TXN000673,2026-01-07 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0186,2026-02-06 11:20:09.914026
+TXN000674,2025-11-20 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0145,2026-02-06 11:20:09.914198
+TXN000675,2025-12-02 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0101,2026-02-06 11:20:09.914366
+TXN000676,2026-01-24 11:20:09,7,White Gold Plated Princess,jewelery,4,9.99,39.96,CUST0131,2026-02-06 11:20:09.914536
+TXN000677,2026-01-12 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0139,2026-02-06 11:20:09.914716
+TXN000678,2025-12-10 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0018,2026-02-06 11:20:09.914888
+TXN000679,2025-11-11 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0186,2026-02-06 11:20:09.915055
+TXN000680,2025-11-16 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0037,2026-02-06 11:20:09.915258
+TXN000681,2025-11-22 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0082,2026-02-06 11:20:09.915440
+TXN000682,2025-12-04 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0145,2026-02-06 11:20:09.915678
+TXN000683,2025-11-12 11:20:09,3,Mens Cotton Jacket,men's clothing,2,55.99,111.98,CUST0032,2026-02-06 11:20:09.915879
+TXN000684,2025-11-09 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0140,2026-02-06 11:20:09.916052
+TXN000685,2025-11-27 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,1,56.99,56.99,CUST0012,2026-02-06 11:20:09.916257
+TXN000686,2025-12-01 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0118,2026-02-06 11:20:09.916452
+TXN000687,2025-11-09 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0035,2026-02-06 11:20:09.916627
+TXN000688,2025-11-09 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0174,2026-02-06 11:20:09.916792
+TXN000689,2026-01-17 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,114.0,114.0,CUST0171,2026-02-06 11:20:09.916970
+TXN000690,2026-01-01 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0039,2026-02-06 11:20:09.917216
+TXN000691,2026-01-18 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0061,2026-02-06 11:20:09.917420
+TXN000692,2026-01-30 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0093,2026-02-06 11:20:09.917615
+TXN000693,2026-02-02 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,5,39.99,199.95,CUST0047,2026-02-06 11:20:09.917790
+TXN000694,2025-11-28 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,2,599.0,1198.0,CUST0136,2026-02-06 11:20:09.917965
+TXN000695,2025-11-12 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0002,2026-02-06 11:20:09.918133
+TXN000696,2026-02-04 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0137,2026-02-06 11:20:09.918299
+TXN000697,2025-11-13 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0123,2026-02-06 11:20:09.918471
+TXN000698,2026-01-18 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0013,2026-02-06 11:20:09.918649
+TXN000699,2025-12-22 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0034,2026-02-06 11:20:09.918821
+TXN000700,2025-11-15 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0175,2026-02-06 11:20:09.918989
+TXN000701,2026-01-23 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0149,2026-02-06 11:20:09.919180
+TXN000702,2025-12-03 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,5,695.0,3475.0,CUST0015,2026-02-06 11:20:09.919367
+TXN000703,2025-11-20 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0111,2026-02-06 11:20:09.919545
+TXN000704,2026-01-30 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0006,2026-02-06 11:20:09.919713
+TXN000705,2025-12-05 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0078,2026-02-06 11:20:09.919885
+TXN000706,2026-01-25 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0016,2026-02-06 11:20:09.920059
+TXN000707,2026-01-17 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0013,2026-02-06 11:20:09.920228
+TXN000708,2025-12-30 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0183,2026-02-06 11:20:09.920398
+TXN000709,2026-01-18 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0106,2026-02-06 11:20:09.920577
+TXN000710,2026-01-29 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0189,2026-02-06 11:20:09.920750
+TXN000711,2025-12-22 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0146,2026-02-06 11:20:09.920922
+TXN000712,2025-12-28 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0171,2026-02-06 11:20:09.921097
+TXN000713,2026-01-02 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0113,2026-02-06 11:20:09.921277
+TXN000714,2025-12-18 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0104,2026-02-06 11:20:09.921455
+TXN000715,2025-11-09 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0075,2026-02-06 11:20:09.921630
+TXN000716,2026-01-31 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0037,2026-02-06 11:20:09.921798
+TXN000717,2025-12-01 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0094,2026-02-06 11:20:09.921966
+TXN000718,2026-01-29 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0078,2026-02-06 11:20:09.922191
+TXN000719,2026-01-10 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,1,12.99,12.99,CUST0084,2026-02-06 11:20:09.922386
+TXN000720,2026-01-25 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0047,2026-02-06 11:20:09.922563
+TXN000721,2026-01-11 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,2,9.85,19.7,CUST0033,2026-02-06 11:20:09.922734
+TXN000722,2025-12-08 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0030,2026-02-06 11:20:09.922905
+TXN000723,2026-01-18 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,3,10.99,32.97,CUST0077,2026-02-06 11:20:09.923100
+TXN000724,2025-11-14 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0175,2026-02-06 11:20:09.923293
+TXN000725,2026-01-30 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0079,2026-02-06 11:20:09.923466
+TXN000726,2026-01-18 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0026,2026-02-06 11:20:09.923634
+TXN000727,2025-12-04 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0198,2026-02-06 11:20:09.923809
+TXN000728,2025-12-13 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0022,2026-02-06 11:20:09.923984
+TXN000729,2026-01-04 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0118,2026-02-06 11:20:09.924151
+TXN000730,2025-11-21 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0102,2026-02-06 11:20:09.924319
+TXN000731,2025-11-23 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0078,2026-02-06 11:20:09.924483
+TXN000732,2026-01-26 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0027,2026-02-06 11:20:09.924659
+TXN000733,2025-12-26 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0003,2026-02-06 11:20:09.924828
+TXN000734,2025-12-31 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0104,2026-02-06 11:20:09.924996
+TXN000735,2025-11-14 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,3,56.99,170.97,CUST0086,2026-02-06 11:20:09.925184
+TXN000736,2026-02-02 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0063,2026-02-06 11:20:09.925367
+TXN000737,2025-12-19 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,2,39.99,79.98,CUST0089,2026-02-06 11:20:09.925538
+TXN000738,2026-01-02 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0086,2026-02-06 11:20:09.925705
+TXN000739,2025-12-21 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0027,2026-02-06 11:20:09.925879
+TXN000740,2026-01-14 11:20:09,3,Mens Cotton Jacket,men's clothing,3,55.99,167.97,CUST0169,2026-02-06 11:20:09.926056
+TXN000741,2025-11-08 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0184,2026-02-06 11:20:09.926226
+TXN000742,2026-02-01 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0009,2026-02-06 11:20:09.926396
+TXN000743,2026-01-19 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0184,2026-02-06 11:20:09.926584
+TXN000744,2026-01-21 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0182,2026-02-06 11:20:09.926772
+TXN000745,2025-12-13 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0076,2026-02-06 11:20:09.926955
+TXN000746,2025-11-11 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,5,39.99,199.95,CUST0103,2026-02-06 11:20:09.927133
+TXN000747,2026-01-24 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0046,2026-02-06 11:20:09.927325
+TXN000748,2026-01-18 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0154,2026-02-06 11:20:09.927498
+TXN000749,2025-11-16 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0036,2026-02-06 11:20:09.927676
+TXN000750,2025-11-22 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0116,2026-02-06 11:20:09.927863
+TXN000751,2026-02-06 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0003,2026-02-06 11:20:09.928040
+TXN000752,2025-12-31 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0158,2026-02-06 11:20:09.928210
+TXN000753,2025-12-17 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0194,2026-02-06 11:20:09.928375
+TXN000754,2026-01-06 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0039,2026-02-06 11:20:09.928550
+TXN000755,2026-02-03 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0055,2026-02-06 11:20:09.928725
+TXN000756,2026-01-23 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0040,2026-02-06 11:20:09.928894
+TXN000757,2026-02-03 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0116,2026-02-06 11:20:09.929068
+TXN000758,2026-01-27 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0047,2026-02-06 11:20:09.929260
+TXN000759,2025-11-28 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0138,2026-02-06 11:20:09.929432
+TXN000760,2025-11-17 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,4,9.85,39.4,CUST0170,2026-02-06 11:20:09.929599
+TXN000761,2025-11-27 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0180,2026-02-06 11:20:09.929776
+TXN000762,2026-01-06 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0007,2026-02-06 11:20:09.929954
+TXN000763,2026-01-09 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0072,2026-02-06 11:20:09.930124
+TXN000764,2025-11-19 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0157,2026-02-06 11:20:09.930291
+TXN000765,2025-12-17 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0166,2026-02-06 11:20:09.930458
+TXN000766,2026-01-01 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0143,2026-02-06 11:20:09.930638
+TXN000767,2026-01-20 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0017,2026-02-06 11:20:09.930808
+TXN000768,2025-11-14 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0085,2026-02-06 11:20:09.930976
+TXN000769,2025-12-24 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0172,2026-02-06 11:20:09.931158
+TXN000770,2026-01-06 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0197,2026-02-06 11:20:09.931355
+TXN000771,2025-12-25 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0161,2026-02-06 11:20:09.931666
+TXN000772,2026-01-24 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0016,2026-02-06 11:20:09.931927
+TXN000773,2025-11-08 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,3,56.99,170.97,CUST0013,2026-02-06 11:20:09.932126
+TXN000774,2025-11-24 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0005,2026-02-06 11:20:09.932310
+TXN000775,2025-11-16 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0122,2026-02-06 11:20:09.932499
+TXN000776,2026-01-27 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0055,2026-02-06 11:20:09.932676
+TXN000777,2025-11-20 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0139,2026-02-06 11:20:09.932862
+TXN000778,2025-11-25 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0180,2026-02-06 11:20:09.933038
+TXN000779,2025-12-07 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0079,2026-02-06 11:20:09.933231
+TXN000780,2025-12-17 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0191,2026-02-06 11:20:09.933415
+TXN000781,2025-12-29 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0002,2026-02-06 11:20:09.933600
+TXN000782,2025-12-03 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0075,2026-02-06 11:20:09.933825
+TXN000783,2026-01-22 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0180,2026-02-06 11:20:09.934036
+TXN000784,2026-02-03 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0055,2026-02-06 11:20:09.934242
+TXN000785,2025-12-30 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0144,2026-02-06 11:20:09.934420
+TXN000786,2025-12-11 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0163,2026-02-06 11:20:09.934592
+TXN000787,2025-12-13 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0198,2026-02-06 11:20:09.934759
+TXN000788,2025-11-11 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0200,2026-02-06 11:20:09.934925
+TXN000789,2026-01-30 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0159,2026-02-06 11:20:09.935096
+TXN000790,2025-12-28 11:20:09,3,Mens Cotton Jacket,men's clothing,1,55.99,55.99,CUST0090,2026-02-06 11:20:09.935293
+TXN000791,2025-12-19 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0189,2026-02-06 11:20:09.935469
+TXN000792,2025-12-02 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0127,2026-02-06 11:20:09.935638
+TXN000793,2026-01-29 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0147,2026-02-06 11:20:09.935805
+TXN000794,2026-01-10 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0036,2026-02-06 11:20:09.935974
+TXN000795,2026-01-19 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0074,2026-02-06 11:20:09.936147
+TXN000796,2026-02-04 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0015,2026-02-06 11:20:09.936322
+TXN000797,2025-12-05 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0151,2026-02-06 11:20:09.936489
+TXN000798,2025-12-10 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0001,2026-02-06 11:20:09.936662
+TXN000799,2025-12-20 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0197,2026-02-06 11:20:09.936839
+TXN000800,2026-01-03 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0019,2026-02-06 11:20:09.937013
+TXN000801,2025-12-11 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0077,2026-02-06 11:20:09.937209
+TXN000802,2026-01-10 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0035,2026-02-06 11:20:09.937417
+TXN000803,2025-11-15 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0092,2026-02-06 11:20:09.937591
+TXN000804,2026-01-06 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0015,2026-02-06 11:20:09.937757
+TXN000805,2025-12-01 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0134,2026-02-06 11:20:09.937923
+TXN000806,2026-01-14 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0033,2026-02-06 11:20:09.938097
+TXN000807,2026-01-09 11:20:09,4,Mens Casual Slim Fit,men's clothing,2,15.99,31.98,CUST0001,2026-02-06 11:20:09.938270
+TXN000808,2026-01-20 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0024,2026-02-06 11:20:09.938452
+TXN000809,2026-01-16 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0003,2026-02-06 11:20:09.938627
+TXN000810,2025-11-17 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0167,2026-02-06 11:20:09.938834
+TXN000811,2026-01-30 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0051,2026-02-06 11:20:09.939010
+TXN000812,2025-12-16 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,5,999.99,4999.95,CUST0082,2026-02-06 11:20:09.939205
+TXN000813,2026-01-06 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0003,2026-02-06 11:20:09.939389
+TXN000814,2025-11-16 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0138,2026-02-06 11:20:09.939561
+TXN000815,2026-01-16 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0174,2026-02-06 11:20:09.939727
+TXN000816,2025-12-07 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0104,2026-02-06 11:20:09.939892
+TXN000817,2026-01-15 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0182,2026-02-06 11:20:09.940064
+TXN000818,2026-01-03 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0032,2026-02-06 11:20:09.940238
+TXN000819,2026-01-14 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0143,2026-02-06 11:20:09.940408
+TXN000820,2026-01-26 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0053,2026-02-06 11:20:09.940578
+TXN000821,2026-02-03 11:20:09,4,Mens Casual Slim Fit,men's clothing,2,15.99,31.98,CUST0037,2026-02-06 11:20:09.940745
+TXN000822,2025-12-21 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,4,22.3,89.2,CUST0052,2026-02-06 11:20:09.940914
+TXN000823,2026-01-15 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0104,2026-02-06 11:20:09.941089
+TXN000824,2025-12-26 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0005,2026-02-06 11:20:09.941281
+TXN000825,2026-01-26 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0062,2026-02-06 11:20:09.941457
+TXN000826,2025-11-20 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0077,2026-02-06 11:20:09.941625
+TXN000827,2025-11-27 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,3,56.99,170.97,CUST0073,2026-02-06 11:20:09.941798
+TXN000828,2025-11-21 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,2,39.99,79.98,CUST0072,2026-02-06 11:20:09.941974
+TXN000829,2026-01-05 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0133,2026-02-06 11:20:09.942144
+TXN000830,2026-01-17 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0054,2026-02-06 11:20:09.942312
+TXN000831,2025-12-16 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0002,2026-02-06 11:20:09.942505
+TXN000832,2025-12-01 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0066,2026-02-06 11:20:09.942677
+TXN000833,2026-01-31 11:20:09,7,White Gold Plated Princess,jewelery,1,9.99,9.99,CUST0053,2026-02-06 11:20:09.942848
+TXN000834,2025-12-25 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,1,109.0,109.0,CUST0086,2026-02-06 11:20:09.943022
+TXN000835,2026-01-11 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,3,64.0,192.0,CUST0179,2026-02-06 11:20:09.943218
+TXN000836,2025-12-02 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0046,2026-02-06 11:20:09.943403
+TXN000837,2025-11-22 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,5,12.99,64.95,CUST0171,2026-02-06 11:20:09.943574
+TXN000838,2025-11-26 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0160,2026-02-06 11:20:09.943759
+TXN000839,2026-01-29 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,1,64.0,64.0,CUST0121,2026-02-06 11:20:09.943937
+TXN000840,2025-12-27 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0182,2026-02-06 11:20:09.944108
+TXN000841,2025-11-12 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,5,64.0,320.0,CUST0065,2026-02-06 11:20:09.944274
+TXN000842,2026-01-18 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0105,2026-02-06 11:20:09.944453
+TXN000843,2025-11-10 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0014,2026-02-06 11:20:09.944629
+TXN000844,2025-11-11 11:20:09,7,White Gold Plated Princess,jewelery,3,9.99,29.97,CUST0155,2026-02-06 11:20:09.944800
+TXN000845,2025-11-14 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,2,22.3,44.6,CUST0177,2026-02-06 11:20:09.944971
+TXN000846,2025-11-14 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,3,22.3,66.9,CUST0148,2026-02-06 11:20:09.945161
+TXN000847,2025-12-10 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0074,2026-02-06 11:20:09.945351
+TXN000848,2026-01-18 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0031,2026-02-06 11:20:09.945523
+TXN000849,2025-12-21 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,5,10.99,54.95,CUST0169,2026-02-06 11:20:09.945699
+TXN000850,2026-01-22 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0133,2026-02-06 11:20:09.945879
+TXN000851,2025-11-28 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0031,2026-02-06 11:20:09.946049
+TXN000852,2026-01-12 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0015,2026-02-06 11:20:09.946220
+TXN000853,2026-01-11 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0102,2026-02-06 11:20:09.946392
+TXN000854,2025-11-29 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0037,2026-02-06 11:20:09.946562
+TXN000855,2026-02-01 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0162,2026-02-06 11:20:09.946728
+TXN000856,2026-01-22 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0050,2026-02-06 11:20:09.946907
+TXN000857,2025-12-31 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0036,2026-02-06 11:20:09.947078
+TXN000858,2025-11-18 11:20:09,4,Mens Casual Slim Fit,men's clothing,1,15.99,15.99,CUST0187,2026-02-06 11:20:09.947282
+TXN000859,2025-12-29 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0027,2026-02-06 11:20:09.947475
+TXN000860,2025-12-18 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0023,2026-02-06 11:20:09.947669
+TXN000861,2025-11-21 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0054,2026-02-06 11:20:09.947858
+TXN000862,2025-11-25 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,1,29.95,29.95,CUST0168,2026-02-06 11:20:09.948110
+TXN000863,2025-11-15 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,5,599.0,2995.0,CUST0154,2026-02-06 11:20:09.948338
+TXN000864,2026-01-09 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,114.0,114.0,CUST0161,2026-02-06 11:20:09.948520
+TXN000865,2025-11-24 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0127,2026-02-06 11:20:09.948707
+TXN000866,2025-11-22 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,1,10.99,10.99,CUST0194,2026-02-06 11:20:09.948879
+TXN000867,2025-12-26 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0147,2026-02-06 11:20:09.949051
+TXN000868,2025-12-04 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0189,2026-02-06 11:20:09.949252
+TXN000869,2025-12-24 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0014,2026-02-06 11:20:09.949434
+TXN000870,2025-11-22 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0176,2026-02-06 11:20:09.949607
+TXN000871,2025-12-11 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0011,2026-02-06 11:20:09.949774
+TXN000872,2025-12-06 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,1,695.0,695.0,CUST0087,2026-02-06 11:20:09.949945
+TXN000873,2025-12-10 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0186,2026-02-06 11:20:09.950120
+TXN000874,2025-12-30 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0065,2026-02-06 11:20:09.950289
+TXN000875,2026-02-06 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0192,2026-02-06 11:20:09.950512
+TXN000876,2026-01-11 11:20:09,7,White Gold Plated Princess,jewelery,5,9.99,49.95,CUST0179,2026-02-06 11:20:09.950745
+TXN000877,2026-01-24 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0016,2026-02-06 11:20:09.950948
+TXN000878,2026-01-05 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0037,2026-02-06 11:20:09.951127
+TXN000879,2026-01-24 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0156,2026-02-06 11:20:09.951323
+TXN000880,2025-11-25 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0041,2026-02-06 11:20:09.951508
+TXN000881,2025-11-24 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,2,39.99,79.98,CUST0118,2026-02-06 11:20:09.951686
+TXN000882,2026-02-04 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0018,2026-02-06 11:20:09.951856
+TXN000883,2025-11-16 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0153,2026-02-06 11:20:09.952023
+TXN000884,2025-11-22 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0010,2026-02-06 11:20:09.952200
+TXN000885,2026-01-06 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,5,39.99,199.95,CUST0200,2026-02-06 11:20:09.952372
+TXN000886,2025-11-30 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,2,12.99,25.98,CUST0006,2026-02-06 11:20:09.952537
+TXN000887,2025-12-09 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,1,29.95,29.95,CUST0092,2026-02-06 11:20:09.952705
+TXN000888,2025-12-21 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0014,2026-02-06 11:20:09.952869
+TXN000889,2026-01-28 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0155,2026-02-06 11:20:09.953040
+TXN000890,2025-12-17 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0033,2026-02-06 11:20:09.953229
+TXN000891,2026-01-09 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,3,39.99,119.97,CUST0098,2026-02-06 11:20:09.953407
+TXN000892,2025-12-14 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0058,2026-02-06 11:20:09.953574
+TXN000893,2025-11-23 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,4,64.0,256.0,CUST0112,2026-02-06 11:20:09.953740
+TXN000894,2026-02-03 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,1,39.99,39.99,CUST0032,2026-02-06 11:20:09.953907
+TXN000895,2025-11-15 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0097,2026-02-06 11:20:09.954085
+TXN000896,2025-12-13 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0083,2026-02-06 11:20:09.954253
+TXN000897,2025-12-11 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,2,114.0,228.0,CUST0096,2026-02-06 11:20:09.954424
+TXN000898,2026-01-07 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0168,2026-02-06 11:20:09.954604
+TXN000899,2025-11-22 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,5,599.0,2995.0,CUST0010,2026-02-06 11:20:09.954780
+TXN000900,2026-01-31 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,3,29.95,89.85,CUST0065,2026-02-06 11:20:09.954949
+TXN000901,2026-01-08 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0186,2026-02-06 11:20:09.955128
+TXN000902,2026-01-12 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,2,109.0,218.0,CUST0165,2026-02-06 11:20:09.955322
+TXN000903,2026-01-10 11:20:09,4,Mens Casual Slim Fit,men's clothing,5,15.99,79.95,CUST0077,2026-02-06 11:20:09.955532
+TXN000904,2025-11-24 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0055,2026-02-06 11:20:09.955704
+TXN000905,2025-12-29 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0010,2026-02-06 11:20:09.955883
+TXN000906,2026-01-24 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0016,2026-02-06 11:20:09.956056
+TXN000907,2026-01-14 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0051,2026-02-06 11:20:09.956224
+TXN000908,2026-01-12 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,1,109.0,109.0,CUST0006,2026-02-06 11:20:09.956390
+TXN000909,2026-01-07 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0065,2026-02-06 11:20:09.956557
+TXN000910,2025-11-27 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,3,9.85,29.55,CUST0122,2026-02-06 11:20:09.956738
+TXN000911,2026-01-09 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0077,2026-02-06 11:20:09.956910
+TXN000912,2026-01-05 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,4,999.99,3999.96,CUST0063,2026-02-06 11:20:09.957075
+TXN000913,2025-11-29 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,1,599.0,599.0,CUST0028,2026-02-06 11:20:09.957266
+TXN000914,2025-12-09 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0149,2026-02-06 11:20:09.957455
+TXN000915,2025-11-23 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0160,2026-02-06 11:20:09.957631
+TXN000916,2025-11-21 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,2,599.0,1198.0,CUST0146,2026-02-06 11:20:09.957800
+TXN000917,2026-01-07 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0169,2026-02-06 11:20:09.957987
+TXN000918,2026-01-03 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,5,22.3,111.5,CUST0050,2026-02-06 11:20:09.958170
+TXN000919,2025-11-11 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0110,2026-02-06 11:20:09.958342
+TXN000920,2026-01-01 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0097,2026-02-06 11:20:09.958510
+TXN000921,2025-12-25 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0035,2026-02-06 11:20:09.958675
+TXN000922,2025-12-08 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0186,2026-02-06 11:20:09.958840
+TXN000923,2026-01-26 11:20:09,7,White Gold Plated Princess,jewelery,1,9.99,9.99,CUST0043,2026-02-06 11:20:09.959003
+TXN000924,2025-12-09 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0153,2026-02-06 11:20:09.959172
+TXN000925,2025-11-12 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0141,2026-02-06 11:20:09.959375
+TXN000926,2025-12-11 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,4,39.99,159.96,CUST0077,2026-02-06 11:20:09.959547
+TXN000927,2026-01-10 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0103,2026-02-06 11:20:09.959715
+TXN000928,2026-01-13 11:20:09,2,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,1,22.3,22.3,CUST0192,2026-02-06 11:20:09.959879
+TXN000929,2026-01-29 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0158,2026-02-06 11:20:09.960055
+TXN000930,2026-01-17 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0095,2026-02-06 11:20:09.960228
+TXN000931,2025-12-04 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0129,2026-02-06 11:20:09.960398
+TXN000932,2026-01-19 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,4,695.0,2780.0,CUST0060,2026-02-06 11:20:09.960563
+TXN000933,2026-01-29 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0138,2026-02-06 11:20:09.960728
+TXN000934,2025-11-11 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,1,29.95,29.95,CUST0120,2026-02-06 11:20:09.960904
+TXN000935,2026-01-23 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0108,2026-02-06 11:20:09.961075
+TXN000936,2025-11-27 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,5,56.99,284.95,CUST0168,2026-02-06 11:20:09.961256
+TXN000937,2026-01-26 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0070,2026-02-06 11:20:09.961439
+TXN000938,2026-02-03 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0160,2026-02-06 11:20:09.961607
+TXN000939,2025-11-17 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,2,9.85,19.7,CUST0048,2026-02-06 11:20:09.961783
+TXN000940,2025-11-23 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0003,2026-02-06 11:20:09.961951
+TXN000941,2025-12-25 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,2,9.85,19.7,CUST0024,2026-02-06 11:20:09.962118
+TXN000942,2026-01-09 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,3,695.0,2085.0,CUST0073,2026-02-06 11:20:09.962285
+TXN000943,2026-01-09 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,4,109.95,439.8,CUST0037,2026-02-06 11:20:09.962459
+TXN000944,2026-01-01 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,4,7.95,31.8,CUST0187,2026-02-06 11:20:09.962628
+TXN000945,2026-01-14 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0008,2026-02-06 11:20:09.962796
+TXN000946,2025-12-10 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,3,109.95,329.85,CUST0161,2026-02-06 11:20:09.962971
+TXN000947,2025-12-09 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0072,2026-02-06 11:20:09.963144
+TXN000948,2025-12-19 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,4,10.99,43.96,CUST0070,2026-02-06 11:20:09.963334
+TXN000949,2025-11-16 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,114.0,114.0,CUST0119,2026-02-06 11:20:09.963518
+TXN000950,2025-12-17 11:20:09,5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,2,695.0,1390.0,CUST0052,2026-02-06 11:20:09.963816
+TXN000951,2026-01-04 11:20:09,3,Mens Cotton Jacket,men's clothing,5,55.99,279.95,CUST0174,2026-02-06 11:20:09.964286
+TXN000952,2025-11-22 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0144,2026-02-06 11:20:09.964547
+TXN000953,2025-12-06 11:20:09,4,Mens Casual Slim Fit,men's clothing,3,15.99,47.97,CUST0038,2026-02-06 11:20:09.964776
+TXN000954,2026-01-17 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,2,114.0,228.0,CUST0052,2026-02-06 11:20:09.964988
+TXN000955,2026-01-09 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,3,114.0,342.0,CUST0194,2026-02-06 11:20:09.965194
+TXN000956,2025-11-30 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,4,599.0,2396.0,CUST0061,2026-02-06 11:20:09.965420
+TXN000957,2026-01-25 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0111,2026-02-06 11:20:09.965643
+TXN000958,2025-12-13 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,4,114.0,456.0,CUST0027,2026-02-06 11:20:09.965857
+TXN000959,2026-01-26 11:20:09,6,Solid Gold Petite Micropave ,jewelery,1,168.0,168.0,CUST0065,2026-02-06 11:20:09.966052
+TXN000960,2026-01-20 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0127,2026-02-06 11:20:09.966257
+TXN000961,2025-11-22 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,4,56.99,227.96,CUST0112,2026-02-06 11:20:09.966460
+TXN000962,2025-11-30 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0058,2026-02-06 11:20:09.966654
+TXN000963,2026-01-10 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0027,2026-02-06 11:20:09.966842
+TXN000964,2025-11-19 11:20:09,6,Solid Gold Petite Micropave ,jewelery,3,168.0,504.0,CUST0060,2026-02-06 11:20:09.967046
+TXN000965,2025-11-21 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,4,29.95,119.8,CUST0049,2026-02-06 11:20:09.967247
+TXN000966,2025-11-30 11:20:09,16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,2,29.95,59.9,CUST0045,2026-02-06 11:20:09.967440
+TXN000967,2025-12-28 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,3,7.95,23.85,CUST0005,2026-02-06 11:20:09.967658
+TXN000968,2026-01-15 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0193,2026-02-06 11:20:09.967893
+TXN000969,2025-12-01 11:20:09,15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,2,56.99,113.98,CUST0055,2026-02-06 11:20:09.968097
+TXN000970,2026-01-22 11:20:09,20,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,4,12.99,51.96,CUST0058,2026-02-06 11:20:09.968336
+TXN000971,2025-12-27 11:20:09,9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,2,64.0,128.0,CUST0147,2026-02-06 11:20:09.968537
+TXN000972,2025-11-20 11:20:09,3,Mens Cotton Jacket,men's clothing,4,55.99,223.96,CUST0116,2026-02-06 11:20:09.968726
+TXN000973,2025-12-12 11:20:09,17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,2,39.99,79.98,CUST0050,2026-02-06 11:20:09.968930
+TXN000974,2025-11-30 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,3,999.99,2999.97,CUST0182,2026-02-06 11:20:09.969133
+TXN000975,2025-12-01 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,2,7.95,15.9,CUST0040,2026-02-06 11:20:09.969322
+TXN000976,2026-01-07 11:20:09,6,Solid Gold Petite Micropave ,jewelery,2,168.0,336.0,CUST0195,2026-02-06 11:20:09.969514
+TXN000977,2025-12-20 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,5,7.95,39.75,CUST0008,2026-02-06 11:20:09.969702
+TXN000978,2026-01-08 11:20:09,7,White Gold Plated Princess,jewelery,2,9.99,19.98,CUST0162,2026-02-06 11:20:09.969903
+TXN000979,2025-12-10 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,5,109.95,549.75,CUST0026,2026-02-06 11:20:09.970098
+TXN000980,2025-11-17 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,5,109.0,545.0,CUST0101,2026-02-06 11:20:09.970311
+TXN000981,2026-01-20 11:20:09,7,White Gold Plated Princess,jewelery,1,9.99,9.99,CUST0118,2026-02-06 11:20:09.970519
+TXN000982,2026-01-28 11:20:09,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,2,9.85,19.7,CUST0087,2026-02-06 11:20:09.970715
+TXN000983,2026-01-28 11:20:09,4,Mens Casual Slim Fit,men's clothing,4,15.99,63.96,CUST0126,2026-02-06 11:20:09.970903
+TXN000984,2025-12-28 11:20:09,19,Opna Women's Short Sleeve Moisture,women's clothing,1,7.95,7.95,CUST0127,2026-02-06 11:20:09.971087
+TXN000985,2025-12-31 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0115,2026-02-06 11:20:09.971274
+TXN000986,2026-01-18 11:20:09,8,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,2,10.99,21.98,CUST0049,2026-02-06 11:20:09.971465
+TXN000987,2026-01-07 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,4,109.0,436.0,CUST0153,2026-02-06 11:20:09.971653
+TXN000988,2026-01-12 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,1,109.95,109.95,CUST0133,2026-02-06 11:20:09.971836
+TXN000989,2025-11-08 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,5,114.0,570.0,CUST0128,2026-02-06 11:20:09.972018
+TXN000990,2025-12-09 11:20:09,14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,2,999.99,1999.98,CUST0016,2026-02-06 11:20:09.972226
+TXN000991,2025-12-21 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,3,109.0,327.0,CUST0122,2026-02-06 11:20:09.972557
+TXN000992,2025-12-19 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,2,114.0,228.0,CUST0051,2026-02-06 11:20:09.972748
+TXN000993,2025-12-16 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,2,109.0,218.0,CUST0016,2026-02-06 11:20:09.972937
+TXN000994,2025-12-06 11:20:09,6,Solid Gold Petite Micropave ,jewelery,4,168.0,672.0,CUST0027,2026-02-06 11:20:09.973136
+TXN000995,2025-11-15 11:20:09,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,2,109.95,219.9,CUST0052,2026-02-06 11:20:09.973333
+TXN000996,2026-01-15 11:20:09,12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,1,114.0,114.0,CUST0029,2026-02-06 11:20:09.973522
+TXN000997,2026-01-19 11:20:09,6,Solid Gold Petite Micropave ,jewelery,5,168.0,840.0,CUST0040,2026-02-06 11:20:09.973715
+TXN000998,2025-12-18 11:20:09,13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,3,599.0,1797.0,CUST0186,2026-02-06 11:20:09.973916
+TXN000999,2026-01-10 11:20:09,10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,5,109.0,545.0,CUST0116,2026-02-06 11:20:09.974109
+TXN001000,2026-01-13 11:20:09,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,4,109.0,436.0,CUST0168,2026-02-06 11:20:09.974320
