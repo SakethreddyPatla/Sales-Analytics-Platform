@@ -31,7 +31,7 @@ def create_database():
 
     os.makedirs('data', exist_ok=True)
 
-    conn = conn.connect(DB_PATH)
+    conn = duckdb.connect(DB_PATH)
     conn.execute("CREATE SCHEMA IF NOT EXISTS raw")
 
     print("Database initialized")
@@ -47,7 +47,7 @@ def load_products(conn, filepath):
                  SELECT * FROM df
                  """)
     
-    count = conn.execute("SELECT COUNT(*) FROM raw.produxts").fetchone()[0]
+    count = conn.execute("SELECT COUNT(*) FROM raw.products").fetchone()[0]
     print(f'Loaded {count} products')
 
 def load_transactions(conn, filepath):
@@ -67,9 +67,9 @@ def load_customers(conn, filepath):
     print(f'Loading customers from: {filepath}')
     df = pd.read_csv(filepath)
     df['registration_date'] = pd.to_datetime(df['registration_date'])
-    conn.execute("DROP TABLE raw.customers IF EXISTS")
+    conn.execute("DROP TABLE IF EXISTS raw.customers")
     conn.execute("""
-                 CREATE TABLE raw.transactions AS
+                 CREATE TABLE raw.customers AS
                  SELECT * FROM df
                  """)
     count = conn.execute("SELECT COUNT(*) FROM raw.customers").fetchone()[0]
@@ -79,7 +79,7 @@ def verify_data(conn):
     print("Data Verification")
     tables = ['products', 'transactions', 'customers']
 
-    for table in table:
+    for table in tables:
         result = conn.execute(f"SELECT COUNT(*) as count FROM raw.{table}").fetchdf()
         print(f"raw.{table}: {result['count'][0]} rows")
 
@@ -99,9 +99,12 @@ def verify_data(conn):
 
 def create_metadata_table(conn):
     print("Creating metadata table")
+    print(conn.execute("SELECT * FROM duckdb_tables() WHERE table_name='load_metadata'").fetchall())
+
+    conn.execute("DROP TABLE IF EXISTS load_metadata")
     conn.execute("""
-                 CREATE TABLE IF NOT EXISTS load_metadata (
-                    load_id INTEGER PRIMARY KEY,
+                 CREATE TABLE load_metadata (
+                    load_id INTEGER,
                     load_timestamp TIMESTAMP,
                     table_name VARCHAR,
                     rows_loaded INTEGER,
@@ -109,12 +112,13 @@ def create_metadata_table(conn):
                  )
 """)
     timestamp = datetime.now()
+    load_id = int(timestamp.timestamp()) # use timestamp as ID
     for table in ['products', 'transactions', 'customers']:
-        count = conn.execute("SELECT COUNT(*) FROM raw.{table}").fetchone()[0]
+        count = conn.execute(f"SELECT COUNT(*) FROM raw.{table}").fetchone()[0]
         conn.execute("""
-                     INSERT INTO load_metadata (load_timestamp, table_name, rows_loaded, source_file)
-                     VALUES(?, ?, ?, ?)
-                     """, [timestamp, table, count, f'latest_{table}.csv'])
+                     INSERT INTO load_metadata (load_id, load_timestamp, table_name, rows_loaded, source_file)
+                     VALUES(?, ?, ?, ?, ?)
+                     """, [load_id, timestamp, table, count, f'latest_{table}.csv'])
         print("Metadata table updated")
 
 def main():
