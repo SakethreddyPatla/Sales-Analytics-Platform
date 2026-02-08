@@ -50,7 +50,7 @@ def generate_transactions(products_df, num_transactions = 1000):
     return pd.DataFrame(transactions)
 
 def save_data(products_df, transactions_df):
-    output_dir = 'data/rawdata'
+    output_dir = '/app/data/rawdata' if os.path.exists('/app/data') else 'data/rawdata'
     os.makedirs(output_dir, exist_ok=True)
 
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')

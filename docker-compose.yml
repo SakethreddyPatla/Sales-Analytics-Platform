@@ -1,0 +1,37 @@
+
+
+services:
+  # Extract service - pulls data from API and generates CSVs
+  extract:
+    build:
+      context: ./extract
+      dockerfile: Dockerfile
+    container_name: sales_extract
+    volumes:
+      - ./data:/app/data
+    environment:
+      - NUM_TRANSACTIONS=${NUM_TRANSACTIONS:-1000}
+      - NUM_CUSTOMERS=${NUM_CUSTOMERS:-200}
+    networks:
+      - sales_network
+  
+  # Load service - loads CSVs into DuckDB
+  load:
+    build:
+      context: ./load
+      dockerfile: Dockerfile
+    container_name: sales_load
+    volumes:
+      - ./data:/app/data
+    environment:
+      - DB_PATH=${DB_PATH:-/app/data/sales_analytics.db}
+    depends_on:
+      - extract
+    networks:
+      - sales_network
+networks:
+  sales_network:
+    driver: bridge
+
+volumes:
+  data:

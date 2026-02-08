@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 from datetime import datetime
 
-DB_PATH = 'data/sales_analytics.db'
+DB_PATH = os.getenv('DB_PATH', 'data/sales_analytics.db')
 
 def get_latest_files():
     raw_dir = Path('data/rawdata')

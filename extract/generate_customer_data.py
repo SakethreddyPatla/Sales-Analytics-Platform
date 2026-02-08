@@ -40,7 +40,7 @@ def generate_customers(num_customers=200):
 
 def save_customers(customers_df):
     """Save customer data to CSV"""
-    output_dir = 'data/rawdata'
+    output_dir = '/app/data/rawdata' if os.path.exists('/app/data') else 'data/rawdata'
     os.makedirs(output_dir, exist_ok=True)
     
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')

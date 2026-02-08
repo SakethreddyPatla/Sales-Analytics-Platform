@@ -20,7 +20,7 @@ dbt_project/logs/
 # Data
 *.db
 *.duckdb
-data/raw/*.csv
+data/rawdata/*.csv
 data/processed/*.csv
 
 # Docker
