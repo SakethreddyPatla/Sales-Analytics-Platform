@@ -1,0 +1,6 @@
+apache-airflow-providers-docker==3.10.0
+requests==2.31.0
+pandas==3.0.0
+faker==20.1.0
+duckdb==1.4.4
+dbt-duckdb==1.7.0
