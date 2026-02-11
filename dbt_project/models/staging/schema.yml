@@ -1,0 +1,86 @@
+version: 2
+
+models:
+  - name: stg_products
+    description: "Cleaned and typed products from raw layer"
+    columns:
+      - name: product_id
+        description: "Unique product identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: product_name
+        description: "Product title/name"
+        tests:
+          - not_null
+
+      - name: unit_price
+        description: "Product price in USD"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              min_value: 0
+              inclusive: true
+
+  - name: stg_customers
+    description: "Cleaned and typed customers from raw layer"
+    columns:
+      - name: customer_id
+        description: "Unique customer identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: email
+        description: "Customer email address"
+        tests:
+          - not_null
+
+      - name: customer_segment
+        description: "Customer tier: Bronze, Silver, Gold, Platinum"
+        tests:
+          - accepted_values:
+              values: ['Bronze', 'Silver', 'Gold', 'Platinum']
+
+  - name: stg_transactions
+    description: "Cleaned and typed transactions from raw layer"
+    columns:
+      - name: transaction_id
+        description: "Unique transaction identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_id
+        description: "Foreign key to customers"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+
+      - name: product_id
+        description: "Foreign key to products"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_products')
+              field: product_id
+
+      - name: total_amount
+        description: "Total transaction amount"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              min_value: 0
+              inclusive: true
+
+      - name: quantity
+        description: "Quantity purchased"
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              min_value: 1
+              max_value: 100
+              inclusive: true

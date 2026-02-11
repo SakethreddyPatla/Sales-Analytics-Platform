@@ -7,7 +7,7 @@ from datetime import datetime
 DB_PATH = os.getenv('DB_PATH', 'data/sales_analytics.db')
 
 def get_latest_files():
-    raw_dir = Path('data/rawdata')
+    raw_dir = Path('/app/data/rawdata') if os.path.exists('/app/data') else Path('data/rawdata')
     product_files = sorted(raw_dir.glob('products_*.csv'))
     transactions_files = sorted(raw_dir.glob('transactions_*.csv'))
     customers_files = sorted(raw_dir.glob('customers_*.csv'))

@@ -13,4 +13,3 @@ COPY verify_database.py .
 # Create data directory
 RUN mkdir -p /app/data
 
-CMD ["python", "load_to_db.py"]

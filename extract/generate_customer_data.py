@@ -14,12 +14,12 @@ fake = Faker()
 def generate_customers(num_customers=200):
     """Generate fake customer data"""
     print(f"Generating {num_customers} customers...")
-    
+    batch_id = datetime.now().strftime('%Y%m%d')
     customers = []
     
     for i in range(1, num_customers + 1):
         customer = {
-            'customer_id': f'CUST{i:04d}',
+            'customer_id': f'CUST{batch_id}_{i:04d}',
             'first_name': fake.first_name(),
             'last_name': fake.last_name(),
             'email': fake.email(),

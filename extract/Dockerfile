@@ -13,4 +13,4 @@ COPY generate_customer_data.py .
 # Create data directory
 RUN mkdir -p /app/data/raw
 
-CMD ["python", "extract_api_data.py"]
+
