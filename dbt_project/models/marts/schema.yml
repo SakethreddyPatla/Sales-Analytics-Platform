@@ -1,0 +1,62 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Customer dimension with purchase history and segmentation"
+    columns:
+      - name: customer_id
+        description: "Unique customer identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_status
+        description: "Active, At Risk, Churned or Never Purchased"
+        tests:
+          - accepted_values:
+              values: ['Active', 'At Risk', 'Churned', 'Never Purchased']
+
+      - name: purchase_frequency
+        description: "Never Purchased, One Time, Occasional, Frequent"
+        tests:
+          - accepted_values:
+              values: ['Never Purchased', 'One Time', 'Occasional', 'Frequent']
+
+  - name: dim_products
+    description: "Product dimension with sales performance metrics"
+    columns:
+      - name: product_id
+        description: "Unique product identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: performance_tier
+        description: "No Sales, Low Performer, Mid Performer, Top Performer"
+        tests:
+          - accepted_values:
+              values: ['No Sales', 'Low Performer', 'Mid Performer', 'Top Performer']
+
+  - name: fct_transactions
+    description: "Fact table with enriched transaction data"
+    columns:
+      - name: transaction_id
+        description: "Unique transaction identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_id
+        description: "Foreign key to dim_customers"
+        tests:
+          - not_null
+
+      - name: product_id
+        description: "Foreign key to dim_products"
+        tests:
+          - not_null
+
+      - name: total_amount
+        description: "Transaction total in USD"
+        tests:
+          - not_null
