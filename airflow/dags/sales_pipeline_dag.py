@@ -108,7 +108,21 @@ verify_database = DockerOperator(
     dag=dag,
 )
 
-# Task 5: Send completion notification
+# Task 5: Run dbt staging models
+run_dbt_staging = BashOperator(
+    task_id='run_dbt_staging',
+    bash_command='cd /opt/airflow/dbt_project && dbt run --select staging --profiles-dir . && dbt test --select staging --profiles-dir .',
+    dag=dag,    
+)
+
+# Task 6: Run dbt marts models
+run_dbt_marts = BashOperator(
+    task_id='run_dbt_marts',
+    bash_command='cd /opt/airflow/dbt_project && dbt run --select marts --profiles-dir . && dbt test --select marts --profiles-dir .',
+    dag=dag
+)
+
+# Task 7: Send completion notification
 send_notification = BashOperator(
     task_id='send_notification',
     bash_command='echo "Pipeline completed successfully at $(date)"',
@@ -116,4 +130,4 @@ send_notification = BashOperator(
 )
 
 # Define task dependencies (pipeline flow)
-extract_api_data >> generate_customers >> load_to_database >> verify_database >> send_notification
+extract_api_data >> generate_customers >> load_to_database >> verify_database >> run_dbt_staging >> run_dbt_marts >> send_notification

@@ -32,6 +32,7 @@ services:
       AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
       AIRFLOW__WEBSERVER__SECRET_KEY: 'your-secret-key-here'
+      DBT_DB_PATH: '/app/data/sales_analytics.db'
       AIRFLOW_UID: 50000
     volumes:
       - ./airflow/dags:/opt/airflow/dags
@@ -39,6 +40,7 @@ services:
       - ./airflow/plugins:/opt/airflow/plugins
       - ./data:/app/data
       - /var/run/docker.sock:/var/run/docker.sock
+      - ./dbt_project:/opt/airflow/dbt_project
     ports:
       - "8080:8080"
     command: webserver
@@ -65,6 +67,7 @@ services:
       AIRFLOW__CORE__FERNET_KEY: ''
       AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      DBT_DB_PATH: '/app/data/sales_analytics.db'
       AIRFLOW_UID: 50000
     volumes:
       - ./airflow/dags:/opt/airflow/dags
@@ -72,6 +75,7 @@ services:
       - ./airflow/plugins:/opt/airflow/plugins
       - ./data:/app/data
       - /var/run/docker.sock:/var/run/docker.sock
+      - ./dbt_project:/opt/airflow/dbt_project
     command: scheduler
     networks:
       - sales_network
