@@ -205,7 +205,7 @@ dbt test
 ![Airflow DAG](snapshots/airflow_dag_success.png)
 
 ### Power BI Dashboard
-![Dashboard](dashboard/Dashboard.pdf)
+![Dashboard](dashboards/Dashboard.pdf)
 
 ---
 
