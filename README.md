@@ -169,7 +169,6 @@ cd sales-analytics-platform
 # 2. Create virtual environment
 python -m venv venv
 venv\Scripts\activate  # Windows
-source venv/bin/activate  # Mac/Linux
 
 # 3. Start Airflow & all services
 docker-compose up -d
@@ -203,10 +202,10 @@ dbt test
 ## 📸 Screenshots
 
 ### Airflow Pipeline - All Tasks Successful
-![Airflow DAG](screenshots/airflow_dag_success.png)
+![Airflow DAG](snapshots/airflow_dag_success.png)
 
 ### Power BI Dashboard
-![Dashboard](screenshots/powerbi_dashboard.png)
+![Dashboard](dashboard/Dashboard.pdf)
 
 ---
 
